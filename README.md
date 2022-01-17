@@ -1,6 +1,6 @@
 #EXTINF:-1 tvg-id="vtc1hd" group-title="Kênh độc quyền 🙂 (Cập nhật liên tục)| Tổng hợp" tvg-logo="https://1.bigdata-vn.com/wp-content/uploads/2021/11/HOT-999-hinh-anh-comment-Facebook-doc-la-troll-de.jpg",kênh 1 | KÊNH TRUYỀN HÌNH THIẾT YẾU
 #EXTVLCOPT:http-user-agent=(_._)
-https://livecdn.fptplay.net/afcchampion/afc02_2000.stream/chunklist.m3u8
+https://stream.meta-scores.com/live/_definst_/stream_1_0fe01@82fee9af2b/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="vtc1hd" group-title="Kênh độc quyền 🙂 (Cập nhật liên tục)| Tổng hợp" tvg-logo="https://1.bigdata-vn.com/wp-content/uploads/2021/11/HOT-999-hinh-anh-comment-Facebook-doc-la-troll-de.jpg",kênh 2 | KÊNH TRUYỀN HÌNH THIẾT YẾU
 #EXTVLCOPT:http-user-agent=(_._)
