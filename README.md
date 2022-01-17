@@ -1,17 +1,31 @@
-#EXTINF:-1 tvg-id="vtc1hd" group-title="kênh độc quyền| Tổng hợp" tvg-logo="https://i.imgur.com/mg5EghC.png",kênh 1 | KÊNH TRUYỀN HÌNH THIẾT YẾU
+#EXTINF:-1 tvg-id="vtc1hd" group-title="Kênh độc quyền 🙂| Tổng hợp" tvg-logo="https://i.imgur.com/mg5EghC.png",kênh 1 | KÊNH TRUYỀN HÌNH THIẾT YẾU
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/afcchampion/afc02_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="vtc1hd" group-title="kênh độc quyền| Tổng hợp" tvg-logo="https://i.imgur.com/mg5EghC.png",kênh 2 | KÊNH TRUYỀN HÌNH THIẾT YẾU
+#EXTINF:-1 tvg-id="vtc1hd" group-title="Kênh độc quyền 🙂| Tổng hợp" tvg-logo="https://i.imgur.com/mg5EghC.png",kênh 2 | KÊNH TRUYỀN HÌNH THIẾT YẾU
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/afcchampion/afc03_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="vtc1hd" group-title"kênh độc quyền| Tổng hợp" tvg-logo="https://i.imgur.com/mg5EghC.png",kênh3 | KÊNH TRUYỀN HÌNH THIẾT YẾU
+#EXTINF:-1 tvg-id="vtc1hd" group-title"Kênh độc quyền 🙂| Tổng hợp" tvg-logo="https://i.imgur.com/mg5EghC.png",kênh3 | KÊNH TRUYỀN HÌNH THIẾT YẾU
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/tvc/sukien02_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="vtc1hd" group-title="kênh độc quyền| Tổng hợp" tvg-logo="https://i.imgur.com/mg5EghC.png",kênh 4 | KÊNH TRUYỀN HÌNH THIẾT YẾU
+#EXTINF:-1 tvg-id="vtc1hd" group-title="Kênh độc quyền 🙂| Tổng hợp" tvg-logo="https://i.imgur.com/mg5EghC.png",kênh 4 | KÊNH TRUYỀN HÌNH THIẾT YẾU
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/tvc/afc01_2000.stream/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-id="vtc1hd" group-title="Kênh độc quyền 🙂| Tổng hợp" tvg-logo="https://i.imgur.com/mg5EghC.png",kênh 5 | KÊNH TRUYỀN HÌNH THIẾT YẾU
+#EXTVLCOPT:http-user-agent=(_._)
+https://livecdn.fptplay.net/tvc/sukien01_2000.stream/chunklist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="vtc1hd" group-title="Kênh độc quyền 🙂| Tổng hợp" tvg-logo="https://i.imgur.com/mg5EghC.png",kênh 6 | KÊNH TRUYỀN HÌNH THIẾT YẾU
+#EXTVLCOPT:http-user-agent=(_._)
+https://livecdn.fptplay.net/sdb/htvcshopping_hls.smil/chunklist_b1200000.m3u8 
+
+
+
 
 
 #EXTINF:0 group-title="🥤" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Coocaa_logo.png",☞ Làm mới list
@@ -813,3 +827,146 @@ https://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 http://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8?bycoca
 #http://livecdn.fptplay.net/qnetlive/animalplanet_2000.stream/chunklist.m3u8
+
+#EXTINF:0  tvg-id="paramouthd" group-title="🇧🌎🇽" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Paramount_Pictures_2021.svg/1200px-Paramount_Pictures_2021.svg.png",Paramount
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8?bycoca
+#EXTINF:0  tvg-id="arirang" group-title="🇧🌎🇽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png",Ariang
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/sdb/arirang_hls.smil/chunklist_b2500000.m3u8
+#https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?bycoca
+#EXTINF:0 tvg-id="kbs_world" group-title="🇧🌎🇽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1280px-KBS_World_%282009%29.svg.png",KBS World
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8?bycoca
+#EXTINF:0 tvg-id="nhk_world" group-title="🇧🌎🇽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png",NHK World
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8?bycoca
+#EXTINF:0 tvg-id="abcaustralia" roup-title="🇧🌎🇽" tvg-logo="https://logodix.com/logo/1040606.png",ABC Australia
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#EXTINF:0 tvg-id="kix" group-title="🇧🌎🇽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png",KIX
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8?bycoca
+#EXTINF:0  tvg-id="fashionhd" group-title="🇧🌎🇽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png",Fashion TV
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://vips-livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8?bycoca
+#EXTINF:0 tvg-id="channelvhd" group-title="🇧🌎🇽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/892px-Channel_V_Logo.svg.png",Channel [V]
+#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/chunks.m3u8?bycoca
+#EXTINF:0  tvg-id="historyhd" group-title="🇧🌎🇽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png",History
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8?bycoca
+#EXTINF:0 tvg-id="tlchd" group-title="🇧🌎🇽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/800px-TLC-Logo_2016.png",TLC
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8?bycoca
+#EXTINF:0  tvg-id="outdoorhd" group-title="🇧🌎🇽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/1280px-Outdoor_Channel_logo_2017.svg.png",Outdoor Channel
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8?bycoca
+https://vips-livecdn.fptplay.net/sdb/australiaplus_hls.smil/chunklist_b2500000.m3u8?bycoca
+#EXTINF:0 tvg-id="tv5monde" group-title="🇧🌎🇽" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/fc/Tivi5monde-1.jpg",TV5 Monde Asie
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8?bycoca
+#EXTINF:0 tvg-id="bloomberg" group-title="🇧🌎🇽", tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/9/98/Bloomberg_Television_%282016-.n.v.%29.png/revision/latest?cb=20200102142902",Bloomberg TV
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/sdb/bloomberg_hls.smil/chunklist_b2500000.m3u8?bycoca
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BLOOMBERG-SD-720p/playlist.m3u8?bycoca
+#EXTINF:0 tvg-id="cnbc" group-title="🇧🌎🇽", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/CNBC.svg/revision/latest/scale-to-width-down/1000?cb=20210623051418",CNBC
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8?bycoca
+#EXTINF:0 tvg-id="france24eng" group-title="🇧🌎🇽" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png",France 24
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8?bycoca
+#http://f24hls-i.akamaihd.net/hls/live/221147-b/F24_EN_HI_HLS/01.m3u8?bycoca
+#EXTINF:0 group-title="🇧🌎🇽", tvg-logo="https://www.openthebooks.com/assets/1/6/MainFCKEditorDimension/OAN.png",One American News
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN_720p30.m3u8?bycoca
+
+#EXTINF:0 group-title="🇧🌎🇽" tvg-logo="https://www.smithsonianchannel.ca/wp-content/uploads/2018/10/smithsonian-logo-header.png",Smithsonian Channel
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://smithsonianaus-samsungau.amagi.tv/playlist1080p.m3u8?bycoca
+#EXTINF:0 group-title="🇧🌎🇽" tvg-logo="http://www.cmd.ee/public/upload/images/logo/Hollywood-HD-logo.png",Hollywood
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8?bycoca
+#EXTINF:0 group-title="🇧🌎🇽" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/41611b21-a7ce-419b-bc77-4644f8105930/de2xjsl-cb285d19-abfd-43dc-bf24-c52311a617ed.png/v1/fill/w_1280,h_720,strp/star_movies__2008__blender_render_by_therprtnetwork_de2xjsl-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNDE2MTFiMjEtYTdjZS00MTliLWJjNzctNDY0NGY4MTA1OTMwXC9kZTJ4anNsLWNiMjg1ZDE5LWFiZmQtNDNkYy1iZjI0LWM1MjMxMWE2MTdlZC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Hcmbf_UIhyXfD9WF1Irs0EE34WsnivKcMwPZfVKUtqU",STAR Movies
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://221.120.204.4:80/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="🇧🌎🇽" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/41611b21-a7ce-419b-bc77-4644f8105930/de2xi7m-448b4d95-f343-4461-9248-0965e6f29e6c.png/v1/fill/w_1192,h_670,strp/star_world__2008__blender_render_v3_by_therprtnetwork_de2xi7m-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcLzQxNjExYjIxLWE3Y2UtNDE5Yi1iYzc3LTQ2NDRmODEwNTkzMFwvZGUyeGk3bS00NDhiNGQ5NS1mMzQzLTQ0NjEtOTI0OC0wOTY1ZTZmMjllNmMucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.XJmdWp-Wu9De2j8sTuFSLGedbwQ0bYwUdWYvjrIwF-A",STAR World
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="🇧🌎🇽" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",Love Nature
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+#https://bamus-eng-roku.amagi.tv/playlist.m3u8?bycoca
+#EXTINF:0 group-title="🇧🌎🇽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",HGTV
+#https://feed.play.mv/live/10005200/Wvl02Co4S1/1.m3u8?id=coca
+#EXTINF:0 group-title="🇧🌎🇽" tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",Nasa TV
+http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?bycoca
+#EXTINF:0 group-title="🇧🌎🇽", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/RACING.COM_logo_2016.svg/1200px-RACING.COM_logo_2016.svg.png",Racing.com
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8?bycoca
+#EXTINF:0 group-title="🇧🌎🇽" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png",Red Bull
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8?bycoca
+#EXTINF:0 group-title="🇧🌎🇽" tvg-logo="https://media4.giphy.com/media/26hirKDWxy7WcdU5i/200.gif",🥊FC
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8?bycoca
+#https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8?bycoca
+#EXTINF:0 tvg-id="mtvhd" group-title="🇧🌎🇽", tvg-logo="https://i.gifer.com/embedded/download/QcT2.gif",MTV Asia
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#https://live2cdn.todayplus.com.vn/hdb/smil:mtv.smil/chunklist.m3u8
+https://vips-livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="🇧🌎🇽", tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/1HD_Music_Television_Logo.png",1HD Music
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8?bycoca
+#http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8?bycoca
+#EXTINF:0 group-title="🇧🌎🇽" tvg-logo="https://i.postimg.cc/3wK9RJTZ/kpopsexy2.png",KPOP Sexy
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?bycoca
+
+#🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔!-BABY
+
+#EXTINF:0 tvg-id="animaxhd" group-title="🅱️| Baby" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png",Animax
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8?bycoca
+#https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist_b250000.m3u8?bycoca
+#EXTINF:0 tvg-id="babyfirst" group-title="🅱️| Baby" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b1/Babyfirst.png",Baby First
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8?bycoca
+#EXTINF:0 tvg-id="babytvhd" group-title="🅱️| Baby" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png",Baby TV
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8?bycoca
+#EXTINF:0 tvg-id="cbeebies" group-title="🅱️| Baby" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png",BBC Cbeebies
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8?bycoca
+#https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/chunklist.m3u8
+#EXTINF:0 tvg-id="boomerang" group-title="🅱️| Baby" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Boomerang_2000_Alt_2.svg/revision/latest/top-crop/width/300/height/300?cb=20160522194334",Boomerang
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8?bycoca
+#http://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8?bycoca
+#EXTINF:0 tvg-id="cartoonhd" group-title="🅱️| Baby" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8?bycoca
+#https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD/playlist.m3u8?bycoca
+#EXTINF:0 tvg-id="davinci" group-title="🅱️| Baby" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/5/54/Da_Vinci_Learning_%282019-.n.v.%29.png/revision/latest?cb=20191031124005",Da Vinci
+https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8?bycoca
+#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8?bycoca
+#EXTINF:0 tvg-id="dreamworks" group-title="🅱️| Baby" tvg-logo="https://static.wikia.nocookie.net/dreamworks/images/4/4b/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg_%282016%29.png/revision/latest/top-crop/width/360/height/360?cb=20171127143327",DreamWorks
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8?bycoca
+#EXTINF:0 group-title="🅱️| Baby" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/1200px-PBS_Kids_Logo.svg.png",PBS Kids
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8?id=coca
+#🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔!-4K
+#EXTINF:0 group-title="🇧🌎🇽" tvg-logo="https://play-lh.googleusercontent.com/MDqkIoSsj4bFmxTa8082V7c6ed9akFZwdPk0gLxDFYK4XoRaOSmkuTC67qSrdMAO3Wk",Bloomberg UHD
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/eb23b6661b4b9b51df70e2df164f9e3a.m3u8?bycoca
+#https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8?bycoca
+#EXTINF:0 group-title="🇧🌎🇽" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/Fashion_TV_HD.svg/revision/latest/scale-to-width-down/250?cb=20111009233204",FashionTV UHD
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#https://fash1043.cloudycdn.services/store/_definst_/tmsp00043/vod/03/5a/297732/z4b_VICTORIAS__475498.smil/chunklist_b15000000_sleng_t64MjE2MEAxNW1iaXQ=.m3u8
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8?bycoca
+#EXTINF:0 group-title="🇧🌎🇽" tvg-logo="https://images.squarespace-cdn.com/content/55f79bede4b0917adab94052/1611005142885-LJJTKDYMQJ7S6SQ8L182/Program-Guide-Channel-Logo_Loupe.png?content-type=image%2Fpng",Loupe UHD
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8?bycoca
+#http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8?bycoca
+#EXTINF:0 group-title="🇧🌎🇽" tvg-logo="https://cdn6.aptoide.com/imgs/5/1/7/51713cb38f60e82562a65727ce7d5493_icon.png",Love Nature UHD
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8?bycoca
+#EXTINF:0 group-title="🇧🌎🇽" tvg-logo="https://tv-radio-web.com/wp-content/uploads/2021/03/Ultra-Nature.png",Ultra Nature UHD
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://m3u.rapid-ott.com:8080/3173434353113478/2598854265/83146
