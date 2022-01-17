@@ -1,26 +1,26 @@
-#EXTINF:-1 tvg-id="vtc1hd" group-title="Kênh độc quyền 🙂| Tổng hợp" tvg-logo="https://i.imgur.com/mg5EghC.png",kênh 1 | KÊNH TRUYỀN HÌNH THIẾT YẾU
+#EXTINF:-1 tvg-id="vtc1hd" group-title="Kênh độc quyền 🙂 (Cập nhật liên tục)| Tổng hợp" tvg-logo="https://1.bigdata-vn.com/wp-content/uploads/2021/11/HOT-999-hinh-anh-comment-Facebook-doc-la-troll-de.jpg",kênh 1 | KÊNH TRUYỀN HÌNH THIẾT YẾU
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/afcchampion/afc02_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="vtc1hd" group-title="Kênh độc quyền 🙂| Tổng hợp" tvg-logo="https://i.imgur.com/mg5EghC.png",kênh 2 | KÊNH TRUYỀN HÌNH THIẾT YẾU
+#EXTINF:-1 tvg-id="vtc1hd" group-title="Kênh độc quyền 🙂 (Cập nhật liên tục)| Tổng hợp" tvg-logo="https://1.bigdata-vn.com/wp-content/uploads/2021/11/HOT-999-hinh-anh-comment-Facebook-doc-la-troll-de.jpg",kênh 2 | KÊNH TRUYỀN HÌNH THIẾT YẾU
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/afcchampion/afc03_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="vtc1hd" group-title"Kênh độc quyền 🙂| Tổng hợp" tvg-logo="https://i.imgur.com/mg5EghC.png",kênh3 | KÊNH TRUYỀN HÌNH THIẾT YẾU
+#EXTINF:-1 tvg-id="vtc1hd" group-title"Kênh độc quyền 🙂 (Cập nhật liên tục)| Tổng hợp" tvg-logo="https://1.bigdata-vn.com/wp-content/uploads/2021/11/HOT-999-hinh-anh-comment-Facebook-doc-la-troll-de.jpg",kênh3 | KÊNH TRUYỀN HÌNH THIẾT YẾU
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/tvc/sukien02_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="vtc1hd" group-title="Kênh độc quyền 🙂| Tổng hợp" tvg-logo="https://i.imgur.com/mg5EghC.png",kênh 4 | KÊNH TRUYỀN HÌNH THIẾT YẾU
+#EXTINF:-1 tvg-id="vtc1hd" group-title="Kênh độc quyền 🙂 (Cập nhật liên tục)| Tổng hợp" tvg-logo="https://1.bigdata-vn.com/wp-content/uploads/2021/11/HOT-999-hinh-anh-comment-Facebook-doc-la-troll-de.jpg",kênh 4 | KÊNH TRUYỀN HÌNH THIẾT YẾU
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/tvc/afc01_2000.stream/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-id="vtc1hd" group-title="Kênh độc quyền 🙂| Tổng hợp" tvg-logo="https://i.imgur.com/mg5EghC.png",kênh 5 | KÊNH TRUYỀN HÌNH THIẾT YẾU
+#EXTINF:-1 tvg-id="vtc1hd" group-title="Kênh độc quyền 🙂 (Cập nhật liên tục)| Tổng hợp" tvg-logo="https://1.bigdata-vn.com/wp-content/uploads/2021/11/HOT-999-hinh-anh-comment-Facebook-doc-la-troll-de.jpg",kênh 5 | KÊNH TRUYỀN HÌNH THIẾT YẾU
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/tvc/sukien01_2000.stream/chunklist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="vtc1hd" group-title="Kênh độc quyền 🙂| Tổng hợp" tvg-logo="https://i.imgur.com/mg5EghC.png",kênh 6 | KÊNH TRUYỀN HÌNH THIẾT YẾU
+#EXTINF:-1 tvg-id="vtc1hd" group-title="Kênh độc quyền 🙂 (Cập nhật liên tục)| Tổng hợp" tvg-logo="https://1.bigdata-vn.com/wp-content/uploads/2021/11/HOT-999-hinh-anh-comment-Facebook-doc-la-troll-de.jpg",kênh 6 | KÊNH TRUYỀN HÌNH THIẾT YẾU
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sdb/htvcshopping_hls.smil/chunklist_b1200000.m3u8 
 
