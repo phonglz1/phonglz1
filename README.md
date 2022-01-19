@@ -1,15 +1,15 @@
-#EXTINF:-1 tvg-id="vtc1hd" group-title="Kênh độc quyền 🙂 (Cập nhật liên tục)| Tổng hợp" tvg-logo="https://1.bigdata-vn.com/wp-content/uploads/2021/11/HOT-999-hinh-anh-comment-Facebook-doc-la-troll-de.jpg",kênh 1 | KÊNH TRUYỀN HÌNH THIẾT YẾU
+#EXTINF:-1 tvg-id="vtc1hd" group-title="Kênh độc quyền 🙂 | Tổng hợp" tvg-logo="https://1.bigdata-vn.com/wp-content/uploads/2021/11/HOT-999-hinh-anh-comment-Facebook-doc-la-troll-de.jpg",kênh 1 | KÊNH TRUYỀN HÌNH THIẾT YẾU
 #EXTVLCOPT:http-user-agent=(_._)
-https://stream.meta-scores.com/live/_definst_/stream_1_0fe01@82fee9af2b/chunklist.m3u8
+https://livecdn.fptplay.net/tvc/wbc01_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="vtc1hd" group-title="Kênh độc quyền 🙂 (Cập nhật liên tục)| Tổng hợp" tvg-logo="https://1.bigdata-vn.com/wp-content/uploads/2021/11/HOT-999-hinh-anh-comment-Facebook-doc-la-troll-de.jpg",kênh 2 | KÊNH TRUYỀN HÌNH THIẾT YẾU
+#EXTINF:-1 tvg-id="vtc1hd" group-title="Kênh độc quyền 🙂 | Tổng hợp" tvg-logo="https://1.bigdata-vn.com/wp-content/uploads/2021/11/HOT-999-hinh-anh-comment-Facebook-doc-la-troll-de.jpg",kênh 2 | KÊNH TRUYỀN HÌNH THIẾT YẾU
 #EXTVLCOPT:http-user-agent=(_._)
-https://livecdn.fptplay.net/afcchampion/afc03_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="vtc1hd" group-title"Kênh độc quyền 🙂 (Cập nhật liên tục)| Tổng hợp" tvg-logo="https://1.bigdata-vn.com/wp-content/uploads/2021/11/HOT-999-hinh-anh-comment-Facebook-doc-la-troll-de.jpg",kênh3 | KÊNH TRUYỀN HÌNH THIẾT YẾU
+https://livecdn.fptplay.net/tvc/wbc02_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtc1hd" group-title"Kênh độc quyền 🙂 | Tổng hợp" tvg-logo="https://1.bigdata-vn.com/wp-content/uploads/2021/11/HOT-999-hinh-anh-comment-Facebook-doc-la-troll-de.jpg",kênh3 | KÊNH TRUYỀN HÌNH THIẾT YẾU
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/tvc/sukien02_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="vtc1hd" group-title="Kênh độc quyền 🙂 (Cập nhật liên tục)| Tổng hợp" tvg-logo="https://1.bigdata-vn.com/wp-content/uploads/2021/11/HOT-999-hinh-anh-comment-Facebook-doc-la-troll-de.jpg",kênh 4 | KÊNH TRUYỀN HÌNH THIẾT YẾU
+#EXTINF:-1 tvg-id="vtc1hd" group-title="Kênh độc quyền 🙂 | Tổng hợp" tvg-logo="https://1.bigdata-vn.com/wp-content/uploads/2021/11/HOT-999-hinh-anh-comment-Facebook-doc-la-troll-de.jpg",kênh 4 | KÊNH TRUYỀN HÌNH THIẾT YẾU
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/tvc/afc01_2000.stream/chunklist.m3u8
 
@@ -20,13 +20,12 @@ https://livecdn.fptplay.net/tvc/sukien01_2000.stream/chunklist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="vtc1hd" group-title="Kênh độc quyền 🙂 (Cập nhật liên tục)| Tổng hợp" tvg-logo="https://1.bigdata-vn.com/wp-content/uploads/2021/11/HOT-999-hinh-anh-comment-Facebook-doc-la-troll-de.jpg",kênh 6 | KÊNH TRUYỀN HÌNH THIẾT YẾU
-#EXTVLCOPT:http-user-agent=(_._)
-https://livecdn.fptplay.net/sdb/htvcshopping_hls.smil/chunklist_b1200000.m3u8 
+#EXTM3U url-tvg="http://gg.gg/cocaepg" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
+#https://onedrive.live.com/download?cid=B8A3DD2343176854&resid=B8A3DD2343176854%2114406&authkey=AKvjuJE8ckCldwM
 
+#EXTM3U ℂ𝕠𝕠𝕔𝕒𝕒𝕋𝕍- List làm để phục vụ cộng đồng. Vui lòng không copy!!!
 
-
-
+#🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔!-Intro
 
 #EXTINF:0 group-title="🥤" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Coocaa_logo.png",☞ Làm mới list
 #EXTVLCOPT:http-user-agent="CoocaaTV"
@@ -970,3 +969,214 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8?bycoca
 #EXTINF:0 group-title="🇧🌎🇽" tvg-logo="https://tv-radio-web.com/wp-content/uploads/2021/03/Ultra-Nature.png",Ultra Nature UHD
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 http://m3u.rapid-ott.com:8080/3173434353113478/2598854265/83146
+
+#🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔!-ART
+
+#EXTINF:0 group-title="🅰️| Art", tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_1yBW7A8_bb1IF9UtaC5c3izus4RKFFxJ49qnKPrgVj0jKMIKYuum1ZIGyvpSVi9WWe4&usqp=CAU",Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist.m3u8
+#EXTINF:0 group-title="🅰️| Art", tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQYYh5Tgbmuc9XJGus4yjYTIwCJ0RQfphU9aOni=s900-c-k-c0x00ffffff-no-rj",A3 bikini
+#https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
+#EXTINF:0 group-title="🅰️| Art", tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMksaUXLmf5y_SCdCMRhYNVdcN3qdQ83R4NA&usqp=CAU",Kaloopy
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/274eb05b-7332-4a40-831a-cee9b0878469/0.m3u8?bycoca
+#EXTINF:0 group-title="🅰️| Art", tvg-logo="https://lh3.googleusercontent.com/dvkA_O2l5QM9I04JMbQ_1D5ZO1hfN6XIOULKeS8C5Wgb-LxoaQo1oFnKnG7HVtrn1g",Midnite Secrets
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8?bycoca
+#EXTINF:0 group-title="🅰️| Art", tvg-logo="https://i.ibb.co/JBWv5Mb/received-930124617584913.gif",18+ Only
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://gg.gg/cc-18|Referer=http://vaophim.org/
+
+#🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔!Sport
+
+#EXTINF:-1 group-title="🅾️| Live" tvg-logo="https://media2.giphy.com/media/yMV6UwELtfsGsUb6yf/giphy.gif",Test
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://gg.gg/cclive1|Referer=https://sctvonline.vn/
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://i.imgur.com/mHJ27Fw.png", Live 01
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/chunklist.m3u8|Referer=https://cakhia8.tv/truc-tiep
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://i.imgur.com/mHJ27Fw.png", Live 02
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/chunklist.m3u8|Referer=https://cakhia8.tv/truc-tiep
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://i.imgur.com/mHJ27Fw.png", Live 03
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/chunklist.m3u8|Referer=https://cakhia8.tv/truc-tiep
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://i.imgur.com/mHJ27Fw.png", Live 04
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m303nd/chunklist.m3u8|Referer=https://cakhia8.tv/truc-tiep
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://i.imgur.com/mHJ27Fw.png", Live 05
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/chunklist.m3u8|Referer=https://cakhia8.tv/truc-tiep
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://i.imgur.com/mHJ27Fw.png", Live 06
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/chunklist.m3u8|Referer=https://cakhia8.tv/truc-tiep
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://i.imgur.com/mHJ27Fw.png", Live 07
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/chunklist.m3u8|Referer=https://cakhia8.tv/truc-tiep
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://i.imgur.com/mHJ27Fw.png", Live 08
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/chunklist.m3u8|Referer=https://cakhia8.tv/truc-tiep
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://i.imgur.com/mHJ27Fw.png", Live 09
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/chunklist.m3u8|Referer=https://cakhia8.tv/truc-tiep
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://i.imgur.com/mHJ27Fw.png", Live 10
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/chunklist.m3u8|Referer=https://cakhia8.tv/truc-tiep
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://i.imgur.com/mHJ27Fw.png", Live 11
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/chunklist.m3u8|Referer=https://cakhia8.tv/truc-tiep
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/UEFA_logo.svg/1200px-UEFA_logo.svg.png",UEFA 01
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/hdevent/uefa01_vhls.smil/playlist.m3u8?bycoca
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/UEFA_logo.svg/1200px-UEFA_logo.svg.png",UEFA 02
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/hdevent/uefa02_vhls.smil/playlist.m3u8?bycoca
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/UEFA_logo.svg/1200px-UEFA_logo.svg.png",UEFA 03
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/hdevent/uefa03_vhls.smil/playlist.m3u8?bycoca
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/UEFA_logo.svg/1200px-UEFA_logo.svg.png",UEFA 04
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/hdevent/uefa04_vhls.smil/playlist.m3u8?bycoca
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/UEFA_logo.svg/1200px-UEFA_logo.svg.png",UEFA 05
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/hdevent/uefa05_vhls.smil/playlist.m3u8?bycoca
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/UEFA_logo.svg/1200px-UEFA_logo.svg.png",UEFA 06
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/hdevent/uefa06_vhls.smil/playlist.m3u8?bycoca
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/UEFA_logo.svg/1200px-UEFA_logo.svg.png",UEFA 07
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/hdevent/uefa07_vhls.smil/playlist.m3u8?bycoca
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/UEFA_logo.svg/1200px-UEFA_logo.svg.png",UEFA 08
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/hdevent/uefa08_vhls.smil/playlist.m3u8?bycoca
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/UEFA_logo.svg/1200px-UEFA_logo.svg.png",UEFA 09
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/hdevent/uefa09_vhls.smil/playlist.m3u8?bycoca
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/UEFA_logo.svg/1200px-UEFA_logo.svg.png",UEFA 10
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/hdevent/uefa10_vhls.smil/playlist.m3u8?bycoca
+
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://static.wikia.nocookie.net/captaintsubasa/images/a/a9/AFC_Champions_League.png",AFC 01
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/afcchampion/afc01_2000.stream/chunklist.m3u8
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://static.wikia.nocookie.net/captaintsubasa/images/a/a9/AFC_Champions_League.png",AFC 02
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/afcchampion/afc02_2000.stream/chunklist.m3u8
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://static.wikia.nocookie.net/captaintsubasa/images/a/a9/AFC_Champions_League.png",AFC 03
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/afcchampion/afc03_2000.stream/chunklist.m3u8
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://static.wikia.nocookie.net/captaintsubasa/images/a/a9/AFC_Champions_League.png",AFC 04
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/afcchampion/afc04_2000.stream/chunklist.m3u8
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://static.wikia.nocookie.net/captaintsubasa/images/a/a9/AFC_Champions_League.png",AFC 05
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/afcchampion/afc05_2000.stream/chunklist.m3u8
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://static.wikia.nocookie.net/captaintsubasa/images/a/a9/AFC_Champions_League.png",AFC 06
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/afcchampion/afc06_2000.stream/chunklist.m3u8
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://static.wikia.nocookie.net/captaintsubasa/images/a/a9/AFC_Champions_League.png",AFC 07
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/afcchampion/afc07_2000.stream/chunklist.m3u8
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://static.wikia.nocookie.net/captaintsubasa/images/a/a9/AFC_Champions_League.png",AFC 08
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/afcchampion/afc08_2000.stream/chunklist.m3u8
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://static.wikia.nocookie.net/captaintsubasa/images/a/a9/AFC_Champions_League.png",AFC 09
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/afcchampion/afc09_2000.stream/chunklist.m3u8
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://static.wikia.nocookie.net/captaintsubasa/images/a/a9/AFC_Champions_League.png",AFC 10
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/afcchampion/afc10_2000.stream/chunklist.m3u8
+
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/314px-2022_FIFA_World_Cup.svg.png",World Cup 01
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/hdevent/worldcup01_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/314px-2022_FIFA_World_Cup.svg.png",World Cup 02
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/hdevent/worldcup02_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/314px-2022_FIFA_World_Cup.svg.png",World Cup 03
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/hdevent/worldcup03_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/314px-2022_FIFA_World_Cup.svg.png",World Cup 04
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/hdevent/worldcup04_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/314px-2022_FIFA_World_Cup.svg.png",World Cup 05
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/hdevent/worldcup05_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/314px-2022_FIFA_World_Cup.svg.png",World Cup 06
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/hdevent/worldcup06_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/314px-2022_FIFA_World_Cup.svg.png",World Cup 07
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/hdevent/worldcup07_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/314px-2022_FIFA_World_Cup.svg.png",World Cup 08
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/hdevent/worldcup08_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/314px-2022_FIFA_World_Cup.svg.png",World Cup 09
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/hdevent/worldcup09_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/314px-2022_FIFA_World_Cup.svg.png",World Cup 10
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/hdevent/worldcup10_hls.smil/chunklist_b2500000.m3u8
+#TEST-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#=========================================================================KOR
+#EXTINF:0 group-title="🔥| Test" tvg-logo="",
+#🇰🇷²⁰²¹
+#EXTINF:0 group-title="🔥| Test" tvg-logo="http://vaophim.co/wp-content/uploads/2022/01/phim-Happy-New-Year-A-Year-End-Medley-2021-300x450.jpg",🇰🇷²⁰²¹ Happy New Year
+https://scontent.cdninstagram.com/v/t66.36240-6/10000000_1362327190884804_970112421666813924_n.mp4?_nc_cat=111&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQ%3D%3D&_nc_ohc=2a1rLxehzmYAX9adLHv&rl=1500&vabr=916&_nc_ht=scontent.fsgn3-1.fna&oh=00_AT8EmT7Rm9-iIUWB9HVxsql6meOXhEMiLBtqjk8vS5i1yg&oe=61E8329E
+#EXTINF:0 group-title="🔥| Test" tvg-logo="http://vaophim.co/wp-content/uploads/2022/01/phim-My-Nhan-Do-Portrait-Of-A-Beauty-18-2008-300x450.jpg",🇰🇷²⁰⁰⁸ Mỹ Nhân Đồ
+https://scontent.cdninstagram.com/v/t66.36240-6/10000000_891347311555531_748617410062828918_n.mp4?_nc_cat=104&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE4NzMsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQ%3D%3D&_nc_ohc=G-zfrptzcFoAX9MAO9k&rl=1873&vabr=1249&_nc_ht=scontent.fsgn3-1.fna&oh=00_AT9LhSTMZrDvAueKQuejZ0qJyhPTxkqxqDJE2fKLBdPyyw&oe=61E598AC
+#===========================================================================CHI
+#EXTINF:0 group-title="🔥| Test" tvg-logo="",
+#🇨🇳²⁰²¹
+#EXTINF:0 group-title="🔥| Test" tvg-logo="http://vaophim.co/wp-content/uploads/2022/01/xem-phim-Tan-Tay-Oan-Luc-Song-Ci-2022-300x450.jpg",🇨🇳²⁰²¹ Tân Tẩy Oan Lục
+https://scontent.cdninstagram.com/v/t66.36240-6/10000000_478144907378853_3944404322830976546_n.mp4?_nc_cat=109&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQ%3D%3D&_nc_ohc=WJfej9CzBLUAX87Jgdp&rl=1500&vabr=850&_nc_ht=scontent.fsgn3-1.fna&oh=00_AT8SbswUYg4SDe7J_izG9y8Ej-bJBTb8R7zFjzUFVeI6og&oe=61E8472D
+#EXTINF:0 group-title="🔥| Test" tvg-logo="http://vaophim.co/wp-content/uploads/2021/11/phim-Shang-Chi-Va-Huyen-Thoai-Thap-Luan-Shang-chi-And-The-Legend-Of-The-Ten-Rings-2021-300x450.jpg",🇨🇳²⁰²¹ Shang-Chi Và Huyền Thoại Thập Luân
+https://scontent.cdninstagram.com/v/t66.36240-6/10000000_350256496562260_2469223318309477181_n.mp4?_nc_cat=101&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1NzMsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQ%3D%3D&_nc_ohc=umetaRFRSXYAX9FwzZI&rl=1573&vabr=1049&_nc_ht=scontent.fsgn3-1.fna&oh=00_AT88csxQ9f0AwJff9iWjv57cy4a6Uo8fvai4reKbJZeeJA&oe=61E6906E
+#EXTINF:0 group-title="🔥| Test" tvg-logo="http://vaophim.co/wp-content/uploads/2022/01/phim-Thien-Dia-Bao-Lien-Dang-The-Magic-Lotus-Lantern-2021-300x450.jpg",🇨🇳²⁰²¹ Thiên Địa Bảo Liên Đăng
+https://scontent.cdninstagram.com/v/t66.36240-6/10000000_3108200996123743_7180897582536810858_n.mp4?_nc_cat=110&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MzAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQ%3D%3D&_nc_ohc=O8yYMng29FMAX-YxjpV&rl=1530&vabr=1020&_nc_ht=scontent.fsgn3-1.fna&oh=00_AT-6hGvLYV44LOBfJttksgOXJNQa3twEiG-XjKm60sE4vA&oe=61E6FF9A
+===============================================================================US
+#EXTINF:0 group-title="🔥| Test" tvg-logo="",
+#🇺🇸²⁰²¹
+#EXTINF:0 group-title="🔥| Test" tvg-logo="http://vaophim.co/wp-content/uploads/2021/10/phim-So-Canh-Sat-Copshop-2021--300x450.jpg",🇺🇸²⁰²¹ Chiến Trường Đồn Cảnh Sát
+https://scontent.cdninstagram.com/v/t66.36240-6/10000000_3023923041257364_790058073552344054_n.mp4?_nc_cat=108&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQ%3D%3D&_nc_ohc=FfgrINPaDnoAX97QPxl&rl=1500&vabr=715&_nc_ht=scontent.fsgn3-1.fna&oh=00_AT-R-wdi8H3MWcyNgG4RMbjss7_kWqU2vkIviH0nqi9imQ&oe=61E6DFC5
+#EXTINF:0 group-title="🔥| Test" tvg-logo="http://vaophim.co/wp-content/uploads/2022/01/xem-phim-Brazen-Ke-Hoach-Lieu-Linh-Brazen-2022-300x450.jpg",🇺🇸²⁰²² Kế Hoạch Liều Lĩnh
+https://scontent.cdninstagram.com/v/t66.36240-6/10000000_1004033550189072_1290803496116005911_n.mp4?_nc_cat=100&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQ%3D%3D&_nc_ohc=8-1Nh4jTYXYAX8gDEjK&rl=1500&vabr=682&_nc_ht=scontent.fsgn3-1.fna&oh=00_AT8nUNwyn0wirjh5M8XrUXb-La6Cq800lLiz7z5Ic8lFVQ&oe=61E712E4
+#EXTINF:0 group-title="🔥| Test" tvg-logo="http://vaophim.co/wp-content/uploads/2022/01/phim-Biet-Kich-The-Commando-2022-300x450.jpg",🇺🇸²⁰²² Biệt Kích
+https://scontent.cdninstagram.com/v/t66.36240-6/10000000_122037936984099_2651558834895026058_n.mp4?_nc_cat=107&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQ%3D%3D&_nc_ohc=gZEmsdlDXmkAX_1ehgw&rl=1500&vabr=832&_nc_ht=scontent.fsgn3-1.fna&oh=00_AT_LRvTaC9pC3baeM83FvWCQ1nQKNswrZp3YC4Rb7tW0qg&oe=61E64763
+#EXTINF:0 group-title="🔥| Test" tvg-logo="http://vaophim.co/wp-content/uploads/2022/01/Chung-Toc-Bat-Tu-Eternals-2021-300x450.jpg",🇺🇸²⁰²¹ Chủng Tộc Bất Tử
+https://scontent.cdninstagram.com/v/t66.36240-6/10000000_3086218081698024_8397355738552714372_n.mp4?_nc_cat=107&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQ%3D%3D&_nc_ohc=hoasqQyMs9IAX_MqNaf&rl=1500&vabr=705&_nc_ht=scontent.fsgn3-1.fna&oh=00_AT9jK0OeM5_XxYh4bdu4n9ohwHtE5Xm5C2DtTNWAkAHe1A&oe=61E71CD2
+#EXTINF:0 group-title="🔥| Test" tvg-logo="http://vaophim.co/wp-content/uploads/2022/01/phim-Clifford-Chu-Cho-Do-Khong-Lo-Clifford-the-Big-Red-Dog-2021--300x450.jpg",🇺🇸²⁰²¹ Chú Chó Đỏ Khổng Lồ
+https://scontent.cdninstagram.com/v/t66.36240-6/10000000_3122979761311415_4481107276158683903_n.mp4?_nc_cat=109&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE2OTgsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQ%3D%3D&_nc_ohc=sw0n5YdJmnkAX_Myjsl&rl=1698&vabr=1132&_nc_ht=scontent.fsgn3-1.fna&oh=00_AT8EHISP9hPmWutk5sEhHGl8T4Ngar-2DEenG6hM_nTowg&oe=61E73714
+#EXTINF:0 group-title="🔥| Test" tvg-logo="http://vaophim.co/wp-content/uploads/2021/12/phim-Nguoi-Nhen-Khong-Con-Nha-Spider-man-No-Way-Home-2021-300x450.jpg",🇺🇸²⁰²¹ Người Nhện Không Còn Nhà
+https://scontent.cdninstagram.com/v/t66.36240-6/10000000_924995721464046_327548036705033157_n.mp4?_nc_cat=110&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE4OTEsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQ%3D%3D&_nc_ohc=gEwcK6u9uvYAX-KXMKA&rl=1891&vabr=1261&_nc_ht=scontent.fsgn3-1.fna&oh=00_AT_ifh-lHwKG--6bNgUSX3x7Kddk0Fx3EXSlfkQSvA7bWA&oe=61E6DA65
+#EXTINF:0 group-title="🔥| Test" tvg-logo="http://vaophim.co/wp-content/uploads/2021/02/Tho-San-Quai-Vat-Monster-Hunter-2020--300x450.png",🇺🇸²⁰²¹ Thợ Săn Quái Vật
+https://scontent.cdninstagram.com/v/t66.36240-6/10000000_942527149736902_4409556785287487406_n.mp4?_nc_cat=105&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE2MjEsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQ%3D%3D&_nc_ohc=Qu0i417x_0oAX_JWz_j&rl=1621&vabr=1081&_nc_ht=scontent.fsgn3-1.fna&oh=00_AT85YE61dHJdYl5qtmv3LFnrlNJ3zSUO5UvwglJiMNzbeA&oe=61E7A2F6
+#EXTINF:0 group-title="🔥| Test" tvg-logo="http://vaophim.co/wp-content/uploads/2021/07/phim-Goa-Phu-Den-Black-Widow-2021-300x450.png",🇺🇸²⁰²¹ Góa Phụ Đen
+https://scontent.cdninstagram.com/v/t66.36240-6/10000000_448916246816605_3414250855042600278_n.mp4?_nc_cat=106&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQ%3D%3D&_nc_ohc=-7Irq2CSKUUAX_n5W36&rl=1500&vabr=745&_nc_ht=scontent.fsgn3-1.fna&oh=00_AT82ecWoGn4YhSUcigY49osrZ1USqWsb96z1x-8IqSViDQ&oe=61E687C4
+#EXTINF:0 group-title="🔥| Test" tvg-logo="http://vaophim.co/wp-content/uploads/2021/12/phim-Quai-Thu-Sieu-To-Rumble-2021--300x450.jpg",🇺🇸²⁰²¹ Quái Thú So Chiêu
+https://scontent.cdninstagram.com/v/t66.36240-6/10000000_131027119372043_8729145307773222085_n.mp4?_nc_cat=111&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjIwNTksInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQ%3D%3D&_nc_ohc=M8CRaY3fDf4AX9XV-VJ&rl=2059&vabr=1373&_nc_ht=scontent.fsgn3-1.fna&oh=00_AT8EeK2KB1ZkxG4QgmNbRdU4cFkNJ1_3tSwZGPa-SJaM1A&oe=61E7CD23
+#EXTINF:0 group-title="🔥| Test" tvg-logo="http://vaophim.co/wp-content/uploads/2021/12/xem-phim-Ma-Tran-4-Hoi-Sinh-The-Matrix-Resurrections-2021--300x450.jpg",🇺🇸²⁰²¹ Ma Trận 4: Hồi Sinh
+https://scontent.cdninstagram.com/v/t66.36240-6/10000000_1060002078116623_3181858336583745386_n.mp4?_nc_cat=106&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQ%3D%3D&_nc_ohc=2o4tzz7sjsQAX9F5yHR&rl=1500&vabr=915&_nc_ht=scontent.fsgn3-1.fna&oh=00_AT8M2OTzyb0a96ABM1mQMYXdZzu4Ixh9FOqdkNH2mPk0sA&oe=61E80CC5
+#EXTINF:0 group-title="🔥| Test" tvg-logo="http://vaophim.co/wp-content/uploads/2021/11/phim-Venom-2-Doi-Mat-Tu-Thu-Venom-Let-There-Be-Carnage-2021-300x450.jpg",🇺🇸²⁰²¹ Venom 2: Đối Mặt Kẻ Tử Thù
+https://scontent.cdninstagram.com/v/t66.36240-6/10000000_322280729889110_4749804906640683815_n.mp4?_nc_cat=110&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQ%3D%3D&_nc_ohc=kHyGOMnQ0dsAX_GVVkw&_nc_oc=AQm5sewleWlrQBRtotU_dzA5wHyPCbljGy-8EWRx9cVdBtffeH-4dgrfjAWlrviNLKE&rl=1500&vabr=865&_nc_ht=scontent.fsgn3-1.fna&oh=00_AT-dLohTy7-qiyCCwIjY0M5Znvs-cNrPXASgQIHL8oSHFw&oe=61E6C791
+#EXTINF:0 group-title="🔥| Test" tvg-logo="http://vaophim.co/wp-content/uploads/2022/01/phim-Biet-Doi-San-Ma-Chuyen-Kiep-Ghostbusters-Afterlife-2021--300x450.jpg",🇺🇸²⁰²¹ Biệt Đội Săn Ma: Chuyển Kiếp
+https://scontent.cdninstagram.com/v/t66.36240-6/10000000_3125430691012311_8704513612669446737_n.mp4?_nc_cat=107&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQ%3D%3D&_nc_ohc=dl-iSxVWnq0AX-TL3lF&rl=1500&vabr=885&_nc_ht=scontent.fsgn3-1.fna&oh=00_AT_PJo-HjoXAi6_bAVjIr7HmGLKckxEn2vXRcTUrEkLDew&oe=61E785BD
+
+#HP====================================================
+#EXTINF:0 group-title="HARRY POTTER" tvg-logo="#EXTINF:0 group-title="HARRY POTTER" tvg-logo="#EXTINF:0 group-title="HARRY POTTER" tvg-logo="#EXTINF:0 group-title="HARRY POTTER" tvg-logo="#EXTINF:0 group-title="HARRY POTTER" tvg-logo="http://vaophim.co/wp-content/uploads/2021/04/phim-Harry-Potter-va-Hon-Da-Phu-Thuy-vaophim-300x450.jpg",& Hòn Đá Phù Thủy (2001)
+https://scontent.cdninstagram.com/v/t66.36240-6/10000000_252441120271045_4660435888152569979_n.mp4?_nc_cat=106&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQ%3D%3D&_nc_ohc=DZ1YVWte5RYAX_kAFRd&rl=1500&vabr=907&_nc_ht=scontent.fsgn3-1.fna&oh=00_AT_r8PfMGnO2awtwfalmHm7yjD6LfJuJa4-AJyedLv-BGQ&oe=61E8003F
+#EXTINF:0 group-title="HARRY POTTER" tvg-logo="#EXTINF:0 group-title="HARRY POTTER" tvg-logo="#EXTINF:0 group-title="HARRY POTTER" tvg-logo="#EXTINF:0 group-title="HARRY POTTER" tvg-logo="#EXTINF:0 group-title="HARRY POTTER" tvg-logo="http://vaophim.co/wp-content/uploads/2020/10/phim-Harry-Potter-Va-Phong-Chua-Bi-Mat-vaophim-300x450.jpg",& Phòng Chứa Bí Mật (2002)
+https://vod-progressive.akamaized.net/exp=1642333473~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F2927%2F26%2F664636250%2F3057405667.mp4~hmac=dff9d5264ca2e09bba74316ab62278bac22136056aaf9b8b3e6e7c594c951a32/vimeo-prod-skyfire-std-us/01/2927/26/664636250/3057405667.mp4
+#EXTINF:0 group-title="HARRY POTTER" tvg-logo="#EXTINF:0 group-title="HARRY POTTER" tvg-logo="#EXTINF:0 group-title="HARRY POTTER" tvg-logo="#EXTINF:0 group-title="HARRY POTTER" tvg-logo="#EXTINF:0 group-title="HARRY POTTER" tvg-logo="http://vaophim.co/wp-content/uploads/2020/05/phim-Harry-Potter-va-Ten-Tu-Nhan-Nguc-Azkaban-vaophim-300x450.jpg",& Tên Tù Nhân Ngục Azkaban (2004)
+https://scontent.cdninstagram.com/v/t66.36240-6/10000000_1252544761892647_8853436224441726492_n.mp4?_nc_cat=103&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE3NzMsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQ%3D%3D&_nc_ohc=j4-AnEkTFwcAX8w5KLT&rl=1773&vabr=1182&_nc_ht=scontent.fsgn3-1.fna&oh=00_AT-KSNIWbcCt3yIhIyPwK8zx-mNF0n9oPxg7k1I3-2521g&oe=61E8EC95
+#EXTINF:0 group-title="HARRY POTTER" tvg-logo="#EXTINF:0 group-title="HARRY POTTER" tvg-logo="#EXTINF:0 group-title="HARRY POTTER" tvg-logo="#EXTINF:0 group-title="HARRY POTTER" tvg-logo="#EXTINF:0 group-title="HARRY POTTER" tvg-logo="http://vaophim.co/wp-content/uploads/2021/04/Harry-Potter-va-Chiec-Coc-Lua-Harry-Potter-and-the-Goblet-of-Fire-2005-300x450.jpg",& Chiếc Cốc Lửa (2005)
+https://scontent.cdninstagram.com/v/t66.36240-6/10000000_1011511376099691_122261290374409154_n.mp4?_nc_cat=111&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQ%3D%3D&_nc_ohc=exleCjJjSzAAX_Q__0E&rl=1500&vabr=870&_nc_ht=scontent.fsgn3-1.fna&oh=00_AT_I6ztBcuwGxvAn8sQRguJ-QJled4MSPSDX-ah8AGYJeg&oe=61E87E24
+#EXTINF:0 group-title="HARRY POTTER" tvg-logo="#EXTINF:0 group-title="HARRY POTTER" tvg-logo="#EXTINF:0 group-title="HARRY POTTER" tvg-logo="#EXTINF:0 group-title="HARRY POTTER" tvg-logo="#EXTINF:0 group-title="HARRY POTTER" tvg-logo="http://vaophim.co/wp-content/uploads/2020/05/harry-potter-va-menh-lenh-phuong-hoang-190364-300x450.jpg",& Mệnh Lệnh Phượng Hoàng (2007)
+https://vod-progressive.akamaized.net/exp=1642333892~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F2928%2F26%2F664642857%2F3057441859.mp4~hmac=d9236658ee83da556a4a55e77c07123876cde65cbc3ef74090439ff889a1206b/vimeo-prod-skyfire-std-us/01/2928/26/664642857/3057441859.mp4
+#EXTINF:0 group-title="HARRY POTTER" tvg-logo="#EXTINF:0 group-title="HARRY POTTER" tvg-logo="#EXTINF:0 group-title="HARRY POTTER" tvg-logo="#EXTINF:0 group-title="HARRY POTTER" tvg-logo="#EXTINF:0 group-title="HARRY POTTER" tvg-logo="http://vaophim.co/wp-content/uploads/2021/04/Harry-Potter-Va-Hoang-Tu-Lai-Harry-Potter-and-the-Half-Blood-Prince-2009-300x450.jpg",& Hoàng Tử Lai (2009)
+https://vod-progressive.akamaized.net/exp=1642339231~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F2928%2F26%2F664642268%2F3057424669.mp4~hmac=0f81dde28c0d6e3cae266e20d6f369ce14616c0335c1cde3157730731c2d4535/vimeo-prod-skyfire-std-us/01/2928/26/664642268/3057424669.mp4
+#EXTINF:0 group-title="HARRY POTTER" tvg-logo="#EXTINF:0 group-title="HARRY POTTER" tvg-logo="#EXTINF:0 group-title="HARRY POTTER" tvg-logo="#EXTINF:0 group-title="HARRY POTTER" tvg-logo="#EXTINF:0 group-title="HARRY POTTER" tvg-logo="http://vaophim.co/wp-content/uploads/2021/04/Harry-Potter-Va-Bao-Boi-Tu-Than-Phan-1-Harry-Potter-7-Harry-Potter-and-the-Deathly-Hallows-Part-1-2010-300x450.jpg",& Bảo Bối Tử Thần -P1 (2010)
+https://vod-progressive.akamaized.net/exp=1642331213~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F2928%2F26%2F664640923%2F3057421891.mp4~hmac=218d799ade75b5e479e04e9335719b5abb79f8e0342747679d0c7f092611ea0b/vimeo-prod-skyfire-std-us/01/2928/26/664640923/3057421891.mp4
+#EXTINF:0 group-title="HARRY POTTER" tvg-logo="#EXTINF:0 group-title="HARRY POTTER" tvg-logo="#EXTINF:0 group-title="HARRY POTTER" tvg-logo="#EXTINF:0 group-title="HARRY POTTER" tvg-logo="#EXTINF:0 group-title="HARRY POTTER" tvg-logo="http://vaophim.co/wp-content/uploads/2021/04/Harry-Potter-Phan-7-Harry-Potter-Va-Bao-Boi-Tu-Than-Phan-2-Harry-Potter-7-Harry-Potter-and-the-Deathly-Hallows-Part-2-2011-300x450.jpg",& Bảo Bối Tử Thần -P2 (2011)
+https://scontent.cdninstagram.com/v/t66.36240-6/10000000_838870900311659_5028629621265138294_n.mp4?_nc_cat=103&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQ%3D%3D&_nc_ohc=kvBkOJmK8DkAX8T6yPI&rl=1500&vabr=661&_nc_ht=scontent.fsgn3-1.fna&oh=00_AT-bdxOuJZIT0xFiWKIX408UfXaecLewmDPJ4hhodVVBfw&oe=61E8B9B8
+#EXTINF:0 group-title="HARRY POTTER" tvg-logo="#EXTINF:0 group-title="HARRY POTTER" tvg-logo="#EXTINF:0 group-title="HARRY POTTER" tvg-logo="#EXTINF:0 group-title="HARRY POTTER" tvg-logo="#EXTINF:0 group-title="HARRY POTTER" tvg-logo="http://vaophim.co/wp-content/uploads/2022/01/phim-Harry-Potter-Ky-Niem-20-Nam-Tro-Lai-Hogwarts-Harry-Potter-20th-Anniversary-Return-To-Hogwarts-2022--300x450.jpg",Kỷ Niệm 20 Năm: Trở Lại Hogwarts (2022)
+https://scontent.cdninstagram.com/v/t66.36240-6/10000000_1329760170799446_3037174425670185727_n.mp4?_nc_cat=101&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQ%3D%3D&_nc_ohc=lMrkHZLcH4oAX94SCdO&rl=1500&vabr=932&_nc_ht=scontent.fsgn3-1.fna&oh=00_AT9CPFgBAICmdTudWohQqOCUIQzM5XAGNPiZ72C-haSHpw&oe=61E7B87E
