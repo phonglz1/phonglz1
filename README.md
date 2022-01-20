@@ -11,7 +11,7 @@ https://livecdn.fptplay.net/tvc/sukien02_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="vtc1hd" group-title="Kênh độc quyền 🙂 | Tổng hợp" tvg-logo="https://1.bigdata-vn.com/wp-content/uploads/2021/11/HOT-999-hinh-anh-comment-Facebook-doc-la-troll-de.jpg",kênh 4 | KÊNH TRUYỀN HÌNH THIẾT YẾU
 #EXTVLCOPT:http-user-agent=(_._)
-https://livecdn.fptplay.net/tvc/afc01_2000.stream/chunklist.m3u8
+https://livecdn.fptplay.net/tvc/afc04_2000.stream/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="vtc1hd" group-title="Kênh độc quyền 🙂 (Cập nhật liên tục)| Tổng hợp" tvg-logo="https://1.bigdata-vn.com/wp-content/uploads/2021/11/HOT-999-hinh-anh-comment-Facebook-doc-la-troll-de.jpg",kênh 5 | KÊNH TRUYỀN HÌNH THIẾT YẾU
