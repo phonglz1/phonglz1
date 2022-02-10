@@ -15,10 +15,6 @@ https://vthanh.xyz/hls/laudaitinhai.m3u8
 #EXTVLCOPT:http-user-agent="BearTV"
 https://mziyw7t0yhliv.vcdn.cloud/live/binhphuoc3/chunklist_1.m3u8
 
-#EXTINF:0 tvg-id="binhphuoc3" group-title="Kênh Ant" tvg-logo="https://i.ibb.co/C95XQzP/ANT-BPTV3-BEARTV.png", Bình Phước 3 - ANT TV
-#EXTVLCOPT:http-user-agent="BearTV"
-https://mziyw7t0yhliv.vcdn.cloud/live/binhphuoc3/chunklist_1.m3u8
-
 **********************K+*****************************************************
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+CINE HD
