@@ -24,14 +24,6 @@ https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m
 
 
 
-
-
-
-
-
-
-
-
 **********************K+*****************************************************
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+CINE HD
@@ -614,6 +606,47 @@ https://livecdn.fptplay.net/hdevent/fa09_4000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="⚽️| Live Bóng Đá" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FA Cup 10
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hdevent/fa10_4000.stream/chunklist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="xem Live Youtube" tvg-logo="https://i.ytimg.com/vi/2PeFhZg-Ci4/maxresdefault.jpg" tvg-id="", Talking Tom
+http://vthanhtivi.cf/404.mp4
+
+#EXTINF:-1 group-title="xem Live Youtube" tvg-logo="https://i.ytimg.com/vi/NXFR5Tx0D40/maxresdefault.jpg" tvg-id="", Cocomelon
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1644534004/ei/lEQFYtCbE5LHgAOd_4l4/ip/103.214.9.53/id/NXFR5Tx0D40.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgFaFwYIYCYJRg-7AZ6wJEF7G4KKpXUctAkfLV9Uqea7QCIQDDUmCrkPhCO9jyfB1wlPd2_EfiKeIMd7iBXstDFzPziQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="xem Live Youtube" tvg-logo="https://i.ytimg.com/vi/ZrCuQFN5ITc/maxresdefault.jpg" tvg-id="", Doraemon Tiếng Việt S6
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1644534004/ei/lEQFYtCgJozkqQGX95fYAQ/ip/103.214.9.53/id/ZrCuQFN5ITc.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/vn/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPpnq0sL-IIEx1c1_pa8nUzr-iMOt3HUv_RuXDQmq8t_AiBSv1n-XbMJqRswmx29Vl9X1GtCxZL3OK_2_WM2ysD9wA%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="xem Live Youtube" tvg-logo="https://i.ytimg.com/vi/T0nxNJYQDsM/maxresdefault.jpg" tvg-id="", Tom and Jerry
+http://vthanhtivi.cf/404.mp4
+
+#EXTINF:-1 group-title="xem Live Youtube" tvg-logo="https://i.ytimg.com/vi/Tzfp-MaU63M/maxresdefault.jpg" tvg-id="", Ben 10
+http://vthanhtivi.cf/404.mp4
+
+#EXTINF:-1 group-title="xem Live Youtube" tvg-logo="https://i.ytimg.com/vi/dYqo2nQbwpU/maxresdefault.jpg" tvg-id="", One Piece
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1644534018/ei/okQFYte4NtGyigar3qTwCg/ip/103.214.9.53/id/dYqo2nQbwpU.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/vn/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhALnoXNKIyOxwZwpmuedCuJtdfjvZ3FpCAKUiwwy__jzbAiEAoJZPrY4hAdkoPk0gDObyGd_-EUstcLC31k5P6NxxXNc%3D/file/index.m3u8
+
+
+#EXTINF:0 group-title="WC" tvg-logo="https://i.ibb.co/bF3t6fS/UEFA-BEARTV.jpg",WC1
+https://vips-livecdn.fptplay.net/hdevent/worldcup01_hls.smil/chunklist_b2500000.m3u8
+
+
+#EXTINF:0 group-title="WC" tvg-logo="https://i.ibb.co/bF3t6fS/UEFA-BEARTV.jpg",WC2
+https://vips-livecdn.fptplay.net/hdevent/worldcup02_hls.smil/chunklist_b2500000.m3u8
+
+
+
+#EXTINF:0 group-title="WC" tvg-logo="https://i.ibb.co/bF3t6fS/UEFA-BEARTV.jpg",WC4
+https://vips-livecdn.fptplay.net/hdevent/worldcup03_hls.smil/chunklist_b2500000.m3u8
+
+
+
+
+
 
 
 #EXTINF:0 group-title="Thôi xem làm gì" tvg-logo="https://i.ibb.co/bF3t6fS/UEFA-BEARTV.jpg",HAHA
