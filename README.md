@@ -25,6 +25,13 @@ https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m
 
 
 
+
+
+
+
+
+
+
 **********************K+*****************************************************
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+CINE HD
@@ -232,21 +239,22 @@ https://e2.endpoint.cdn.sctvonline.vn/secure/btv5/sd1/index.m3u8?md5=TIpsMcUws2B
 
 
 
-#EXTINF:-1 tvg-id="hbohd" group-title="QUỐC TẾ - BEARTV" tvg-logo="https://i.ibb.co/QkgRShZ/hbo-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO
+#EXTINF:-1 tvg-id="hbohd" group-title="QUỐC TẾ - " tvg-logo="https://i.ibb.co/QkgRShZ/hbo-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO
 #EXTVLCOPT:http-user-agent="BearTV"
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="QUỐC TẾ - BEARTV" tvg-logo="https://i.ibb.co/fnrDyDg/cinemax-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/playlist_dvr_range-${start}-${offset}.m3u8", CINEMAX
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="QUỐC TẾ - " tvg-logo="https://i.ibb.co/fnrDyDg/cinemax-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/playlist_dvr_range-${start}-${offset}.m3u8", CINEMAX
 #EXTVLCOPT:http-user-agent="BearTV"
 https://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="mtvhd" group-title="QUỐC TẾ - BEARTV" tvg-logo="https://i.ibb.co/4WsJKSP/MTV-VN-BEARTV.png", MTV
+#EXTINF:-1 tvg-id="mtvhd" group-title="QUỐC TẾ - " tvg-logo="https://i.ibb.co/4WsJKSP/MTV-VN-BEARTV.png", MTV
 #EXTVLCOPT:http-user-agent="BearTV"
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
 
 
-#EXTINF:0 tvg-id="hollywoodclassics" group-title="QUỐC TẾ - BEARTV" tvg-logo="https://i.ibb.co/G02ZkMd/Hollywood-Classics-BEARTV.png",Hollywood Classics
+#EXTINF:0 tvg-id="hollywoodclassics" group-title="QUỐC TẾ - " tvg-logo="https://i.ibb.co/G02ZkMd/Hollywood-Classics-BEARTV.png",Hollywood Classics
 #EXTVLCOPT:http-user-agent="BearTV"
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8?bycoca|Referer=http://sctvonline.vn/
+
 
 
 
@@ -572,9 +580,7 @@ https://vips-livecdn.fptplay.net/hdevent/uefa08_vhls.smil/playlist.m3u8
 #EXTINF:0 group-title="FPT Play EVENT" tvg-logo="https://i.ibb.co/bF3t6fS/UEFA-BEARTV.jpg",UEFA 09
 #EXTVLCOPT:http-user-agent="BearTV"
 https://vips-livecdn.fptplay.net/hdevent/uefa09_vhls.smil/playlist.m3u8
-#EXTINF:0 group-title="FPT Play EVENT" tvg-logo="https://i.ibb.co/bF3t6fS/UEFA-BEARTV.jpg",UEFA 10
-#EXTVLCOPT:http-user-agent="BearTV"
-https://vips-livecdn.fptplay.net/hdevent/uefa10_vhls.smil/playlist.m3u8
 
 
-
+#EXTINF:0 group-title="Thôi xem làm gì" tvg-logo="https://i.ibb.co/bF3t6fS/UEFA-BEARTV.jpg",HAHA
+https://rr6---sn-8pxuuxa-i5oll.googlevideo.com/videoplayback?expire=1644535022&ei=jkgFYomhGpf0rtoP4pKtsAI&ip=2402%3A800%3A6139%3Ad7a8%3Aa4a4%3A87b8%3A6734%3A941f&id=o-AE5tAGnn30ksrgxGyNTpjtACUjHHS9r9XXo9RScciFhh&itag=137&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&mh=ll&mm=31%2C29&mn=sn-8pxuuxa-i5oll%2Csn-8pxuuxa-i5o6k&ms=au%2Crdu&mv=m&mvi=6&pl=51&initcwndbps=836250&vprv=1&mime=video%2Fmp4&ns=1xe06dOpeSicvH5yRjDEUM4G&gir=yes&clen=50397308&dur=318.885&lmt=1635490907091274&mt=1644513228&fvip=6&keepalive=yes&fexp=24001373%2C24007246&c=WEB&txp=5432432&n=vhC8uNbUWRHRAA&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAIPKSvhoTyK2LjtYgWJrwRz2QYoV25yQ72Zi85hJNQH_AiAb9U1ecWLBA5mwiYC3TdKAqHlRuv6BAvsG14ltoBhdCw%3D%3D&sig=AOq0QJ8wRQIhAJVOqKYzhbVmyuGy4nJYF5PdXYZEemRtuBhZpAHmYRGrAiBV3m9M9QQTzLuhx_GVlvMwl7Uv2mpvdTFEinzcATFZJA%3D%3D
