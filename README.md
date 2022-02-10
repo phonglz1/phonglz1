@@ -519,67 +519,101 @@ https://livecdn.fptplay.net/sdc/bentre_hls.smil/chunklist_b2500000.m3u8
 https://l9v8fomqgzliv.vcdn.cloud/live/khanhhoa/chunklist_1.m3u8
 
 
+**********⚽️**********
+
+#EXTINF:-1 tvg-id="" group-title="⚽️| Live Bóng Đá" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 1
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/afcchampion/afc01_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️| Live Bóng Đá" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 2
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/afcchampion/afc02_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️| Live Bóng Đá" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 3
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/afcchampion/afc03_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️| Live Bóng Đá" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 4
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/afcchampion/afc04_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️| Live Bóng Đá" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 5
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/afcchampion/afc05_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️| Live Bóng Đá" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 6
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/afcchampion/afc06_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️| Live Bóng Đá" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 7
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/afcchampion/afc07_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️| Live Bóng Đá" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 8
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/afcchampion/afc08_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️| Live Bóng Đá" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 9
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/afcchampion/afc09_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️| Live Bóng Đá" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 10
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/afcchampion/afc10_2000.stream/chunklist.m3u8
 
 
+#EXTINF:-1 tvg-id="" group-title="⚽️| Live Bóng Đá" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", UEFA 1
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hdevent/uefa01_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️| Live Bóng Đá" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", UEFA 2
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hdevent/uefa02_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️| Live Bóng Đá" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", UEFA 3
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hdevent/uefa03_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️| Live Bóng Đá" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", UEFA 4
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hdevent/uefa04_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️| Live Bóng Đá" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", UEFA 5
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hdevent/uefa05_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️| Live Bóng Đá" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", UEFA 6
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hdevent/uefa06_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️| Live Bóng Đá" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", UEFA 7
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hdevent/uefa07_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️| Live Bóng Đá" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", UEFA 8
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hdevent/uefa08_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️| Live Bóng Đá" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", UEFA 9
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hdevent/uefa09_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️| Live Bóng Đá" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", UEFA 10
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hdevent/uefa10_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 group-title="FPT Play EVENT" tvg-logo="https://i.ibb.co/jTBmGrm/fa-cup-BEARTV.png", FA Cup 1
-#EXTVLCOPT:http-user-agent="BearTV"
+#EXTINF:-1 group-title="⚽️| Live Bóng Đá" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FA Cup 1
+#EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hdevent/fa01_4000.stream/chunklist.m3u8
-#EXTINF:0 group-title="FPT Play EVENT" tvg-logo="https://i.ibb.co/jTBmGrm/fa-cup-BEARTV.png", FA Cup 2
-#EXTVLCOPT:http-user-agent="BearTV"
+#EXTINF:-1 group-title="⚽️| Live Bóng Đá" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FA Cup 2
+#EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hdevent/fa02_4000.stream/chunklist.m3u8
-#EXTINF:0 group-title="FPT Play EVENT" tvg-logo="https://i.ibb.co/jTBmGrm/fa-cup-BEARTV.png", FA Cup 3
-#EXTVLCOPT:http-user-agent="BearTV"
+#EXTINF:-1 group-title="⚽️| Live Bóng Đá" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FA Cup 3
+#EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hdevent/fa03_4000.stream/chunklist.m3u8
-#EXTINF:0 group-title="FPT Play EVENT" tvg-logo="https://i.ibb.co/jTBmGrm/fa-cup-BEARTV.png", FA Cup 4
-#EXTVLCOPT:http-user-agent="BearTV"
+#EXTINF:-1 group-title="⚽️| Live Bóng Đá" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FA Cup 4
+#EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hdevent/fa04_4000.stream/chunklist.m3u8
-#EXTINF:0 group-title="FPT Play EVENT" tvg-logo="https://i.ibb.co/jTBmGrm/fa-cup-BEARTV.png", FA Cup 5
-#EXTVLCOPT:http-user-agent="BearTV"
+#EXTINF:-1 group-title="⚽️| Live Bóng Đá" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FA Cup 5
+#EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hdevent/fa05_4000.stream/chunklist.m3u8
-#EXTINF:0 group-title="FPT Play EVENT" tvg-logo="https://i.ibb.co/jTBmGrm/fa-cup-BEARTV.png", FA Cup 6
-#EXTVLCOPT:http-user-agent="BearTV"
+#EXTINF:-1 group-title="⚽️| Live Bóng Đá" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FA Cup 6
+#EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hdevent/fa06_4000.stream/chunklist.m3u8
-#EXTINF:0 group-title="FPT Play EVENT" tvg-logo="https://i.ibb.co/jTBmGrm/fa-cup-BEARTV.png", FA Cup 7
-#EXTVLCOPT:http-user-agent="BearTV"
+#EXTINF:-1 group-title="⚽️| Live Bóng Đá" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FA Cup 7
+#EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hdevent/fa07_4000.stream/chunklist.m3u8
-#EXTINF:0 group-title="FPT Play EVENT" tvg-logo="https://i.ibb.co/jTBmGrm/fa-cup-BEARTV.png", FA Cup 8
-#EXTVLCOPT:http-user-agent="BearTV"
+#EXTINF:-1 group-title="⚽️| Live Bóng Đá" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FA Cup 8
+#EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hdevent/fa08_4000.stream/chunklist.m3u8
-#EXTINF:0 group-title="FPT Play EVENT" tvg-logo="https://i.ibb.co/jTBmGrm/fa-cup-BEARTV.png", FA Cup 9
-#EXTVLCOPT:http-user-agent="BearTV"
+#EXTINF:-1 group-title="⚽️| Live Bóng Đá" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FA Cup 9
+#EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hdevent/fa09_4000.stream/chunklist.m3u8
-#EXTINF:0 group-title="FPT Play EVENT" tvg-logo="https://i.ibb.co/jTBmGrm/fa-cup-BEARTV.png", FA Cup 10
-#EXTVLCOPT:http-user-agent="BearTV"
+#EXTINF:-1 group-title="⚽️| Live Bóng Đá" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FA Cup 10
+#EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hdevent/fa10_4000.stream/chunklist.m3u8
-
-#EXTINF:0 group-title="FPT Play EVENT" tvg-logo="https://i.ibb.co/bF3t6fS/UEFA-BEARTV.jpg",UEFA 01
-#EXTVLCOPT:http-user-agent="BearTV"
-https://vips-livecdn.fptplay.net/hdevent/uefa01_vhls.smil/playlist.m3u8
-#EXTINF:0 group-title="FPT Play EVENT" tvg-logo="https://i.ibb.co/bF3t6fS/UEFA-BEARTV.jpg",UEFA 02
-#EXTVLCOPT:http-user-agent="BearTV"
-https://vips-livecdn.fptplay.net/hdevent/uefa02_vhls.smil/playlist.m3u8
-#EXTINF:0 group-title="FPT Play EVENT" tvg-logo="https://i.ibb.co/bF3t6fS/UEFA-BEARTV.jpg",UEFA 03
-#EXTVLCOPT:http-user-agent="BearTV"
-https://vips-livecdn.fptplay.net/hdevent/uefa03_vhls.smil/playlist.m3u8
-#EXTINF:0 group-title="FPT Play EVENT" tvg-logo="https://i.ibb.co/bF3t6fS/UEFA-BEARTV.jpg",UEFA 04
-#EXTVLCOPT:http-user-agent="BearTV"
-https://vips-livecdn.fptplay.net/hdevent/uefa04_vhls.smil/playlist.m3u8
-#EXTINF:0 group-title="FPT Play EVENT" tvg-logo="https://i.ibb.co/bF3t6fS/UEFA-BEARTV.jpg",UEFA 05
-#EXTVLCOPT:http-user-agent="BearTV"
-https://vips-livecdn.fptplay.net/hdevent/uefa05_vhls.smil/playlist.m3u8
-#EXTINF:0 group-title="FPT Play EVENT" tvg-logo="https://i.ibb.co/bF3t6fS/UEFA-BEARTV.jpg",UEFA 06
-#EXTVLCOPT:http-user-agent="BearTV"
-https://vips-livecdn.fptplay.net/hdevent/uefa06_vhls.smil/playlist.m3u8
-#EXTINF:0 group-title="FPT Play EVENT" tvg-logo="https://i.ibb.co/bF3t6fS/UEFA-BEARTV.jpg",UEFA 07
-#EXTVLCOPT:http-user-agent="BearTV"
-https://vips-livecdn.fptplay.net/hdevent/uefa07_vhls.smil/playlist.m3u8
-#EXTINF:0 group-title="FPT Play EVENT" tvg-logo="https://i.ibb.co/bF3t6fS/UEFA-BEARTV.jpg",UEFA 08
-#EXTVLCOPT:http-user-agent="BearTV"
-https://vips-livecdn.fptplay.net/hdevent/uefa08_vhls.smil/playlist.m3u8
-#EXTINF:0 group-title="FPT Play EVENT" tvg-logo="https://i.ibb.co/bF3t6fS/UEFA-BEARTV.jpg",UEFA 09
-#EXTVLCOPT:http-user-agent="BearTV"
-https://vips-livecdn.fptplay.net/hdevent/uefa09_vhls.smil/playlist.m3u8
 
 
 #EXTINF:0 group-title="Thôi xem làm gì" tvg-logo="https://i.ibb.co/bF3t6fS/UEFA-BEARTV.jpg",HAHA
