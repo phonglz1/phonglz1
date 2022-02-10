@@ -10,6 +10,15 @@ https://vthanh.xyz/hls/laudaitinhai.m3u8
 #EXTINF:-1 group-title="⚠️| Lưu ý" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Warning.svg/2219px-Warning.svg.png", Facebook: Phong Lê
 https://vthanh.xyz/hls/laudaitinhai.m3u8
 
+
+#EXTINF:0 tvg-id="binhphuoc3" group-title="Kênh Ant" tvg-logo="https://i.ibb.co/C95XQzP/ANT-BPTV3-BEARTV.png", Bình Phước 3 - ANT TV
+#EXTVLCOPT:http-user-agent="BearTV"
+https://mziyw7t0yhliv.vcdn.cloud/live/binhphuoc3/chunklist_1.m3u8
+
+#EXTINF:0 tvg-id="binhphuoc3" group-title="Kênh Ant" tvg-logo="https://i.ibb.co/C95XQzP/ANT-BPTV3-BEARTV.png", Bình Phước 3 - ANT TV
+#EXTVLCOPT:http-user-agent="BearTV"
+https://mziyw7t0yhliv.vcdn.cloud/live/binhphuoc3/chunklist_1.m3u8
+
 **********************K+*****************************************************
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+CINE HD
@@ -503,9 +512,6 @@ http://118.69.169.41:1935/THDT/thdttv/chunklist_w783977685.m3u8
 #EXTINF:0 tvg-id="binhphuoc2" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/whZsp2n/BPTV2-Home-TV-BEARTV.png", Bình Phước 2 - HOME TV
 #https://live.baobinhphuoc.com.vn/bptvlive/tv2live.m3u8
 https://livecdn.fptplay.net/sdc/binhphuoc2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="binhphuoc3" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/C95XQzP/ANT-BPTV3-BEARTV.png", Bình Phước 3 - ANT TV
-#EXTVLCOPT:http-user-agent="BearTV"
-https://mziyw7t0yhliv.vcdn.cloud/live/binhphuoc3/chunklist_1.m3u8
 #EXTINF:-1 tvg-id="TH DA NANG "group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/pXM42MF/drt1-BEARTV.png",Đà Nẵng 1
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/2gfYpRQ/drt2-BEARTV.png",Đà Nẵng 2
