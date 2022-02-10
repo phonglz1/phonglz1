@@ -645,6 +645,14 @@ https://vips-livecdn.fptplay.net/hdevent/worldcup03_hls.smil/chunklist_b2500000.
 
 
 
+#EXTINF:0 group-title="WC" tvg-logo="https://i.ibb.co/bF3t6fS/UEFA-BEARTV.jpg",Kênh thử nghiệm
+https://sglive.akamaized.net/bpk-tv/prod_kplus_lifehd/default/dash/prod_kplus_lifehd-video=2662400-986709444371.dash
+
+#EXTINF:0 group-title="WC" tvg-logo="https://i.ibb.co/bF3t6fS/UEFA-BEARTV.jpg",Kênh thử nghiệm
+https://sglive.akamaized.net/bpk-tv/prod_kplus_lifehd/default/i.mpd
+
+
+
 
 
 
