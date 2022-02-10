@@ -3,9 +3,9 @@
 #EXTM3U url-tvg="http://onetv.click/schedule/epg.xml"
 
 
-#EXTINF:-1 group-title="⚠️| Lưu ý" tvg-logo="http://static.acestream.net/sites/acestream/img/ACE-logo.png", Kênh youtube :PhongVR
+#EXTINF:-1 group-title="Kết bạn đê| Lưu ý" tvg-logo="http://static.acestream.net/sites/acestream/img/ACE-logo.png", Kênh youtube :PhongVR
 https://vthanh.xyz/hls/laudaitinhai.m3u8
-#EXTINF:-1 group-title="⚠️| Lưu ý" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Warning.svg/2219px-Warning.svg.png", Facebook: Phong Lê
+#EXTINF:-1 group-title="Kết bạn đê| Lưu ý" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Warning.svg/2219px-Warning.svg.png", Facebook: Phong Lê
 https://vthanh.xyz/hls/laudaitinhai.m3u8
 
 
