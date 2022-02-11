@@ -1,7 +1,5 @@
 #EXTM3U url-tvg="http://onetv.click/schedule/epg.xml,http://vthanh.me/tvpub.xml,http://gg.gg/cvmedia-epg"
-
-#EXTM3U url-tvg="http://onetv.click/schedule/epg.xml"
-
+#Tham gia group Zalo để nhận thông báo: https://zalo.me/g/bjmhxs517
 
 #EXTINF:-1 group-title="Kết bạn đê| Lưu ý" tvg-logo="http://static.acestream.net/sites/acestream/img/ACE-logo.png", Kênh youtube :PhongVR
 https://vthanh.xyz/hls/laudaitinhai.m3u8
@@ -659,3 +657,11 @@ https://sglive.akamaized.net/bpk-tv/prod_kplus_lifehd/default/i.mpd
 
 #EXTINF:0 group-title="Thôi xem làm gì" tvg-logo="https://i.ibb.co/bF3t6fS/UEFA-BEARTV.jpg",HAHA
 https://rr6---sn-8pxuuxa-i5oll.googlevideo.com/videoplayback?expire=1644535022&ei=jkgFYomhGpf0rtoP4pKtsAI&ip=2402%3A800%3A6139%3Ad7a8%3Aa4a4%3A87b8%3A6734%3A941f&id=o-AE5tAGnn30ksrgxGyNTpjtACUjHHS9r9XXo9RScciFhh&itag=137&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&mh=ll&mm=31%2C29&mn=sn-8pxuuxa-i5oll%2Csn-8pxuuxa-i5o6k&ms=au%2Crdu&mv=m&mvi=6&pl=51&initcwndbps=836250&vprv=1&mime=video%2Fmp4&ns=1xe06dOpeSicvH5yRjDEUM4G&gir=yes&clen=50397308&dur=318.885&lmt=1635490907091274&mt=1644513228&fvip=6&keepalive=yes&fexp=24001373%2C24007246&c=WEB&txp=5432432&n=vhC8uNbUWRHRAA&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAIPKSvhoTyK2LjtYgWJrwRz2QYoV25yQ72Zi85hJNQH_AiAb9U1ecWLBA5mwiYC3TdKAqHlRuv6BAvsG14ltoBhdCw%3D%3D&sig=AOq0QJ8wRQIhAJVOqKYzhbVmyuGy4nJYF5PdXYZEemRtuBhZpAHmYRGrAiBV3m9M9QQTzLuhx_GVlvMwl7Uv2mpvdTFEinzcATFZJA%3D%3D
+
+
+
+
+
+
+
+
