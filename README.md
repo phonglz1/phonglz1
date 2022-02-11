@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="http://onetv.click/schedule/epg.xml,http://vthanh.me/tvpub.xml,http://gg.gg/cvmedia-epg"
 #Tham gia group Zalo để nhận thông báo: https://zalo.me/g/bjmhxs517
 
-#EXTINF:-1 group-title="Kết bạn đê| Lưu ý" tvg-logo="http://static.acestream.net/sites/acestream/img/ACE-logo.png", Kênh youtube :PhongVR
+#EXTINF:-1 group-title="Kết bạn đê" tvg-logo="http://static.acestream.net/sites/acestream/img/ACE-logo.png", Kênh youtube :PhongVR
 https://vthanh.xyz/hls/laudaitinhai.m3u8
-#EXTINF:-1 group-title="Kết bạn đê| Lưu ý" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Warning.svg/2219px-Warning.svg.png", Facebook: Phong Lê
+#EXTINF:-1 group-title="Kết bạn đê" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Warning.svg/2219px-Warning.svg.png", Facebook: Phong Lê
 https://vthanh.xyz/hls/laudaitinhai.m3u8
 
 
@@ -12,14 +12,10 @@ https://vthanh.xyz/hls/laudaitinhai.m3u8
 https://mziyw7t0yhliv.vcdn.cloud/live/binhphuoc3/chunklist_1.m3u8
 
 
-#EXTINF:-1 tvg-id="" group-title="Kênh hoạt hình - Phong" tvg-logo="https://i.ibb.co/vD7cGzQ/Boomerang-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/boomerang_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8, Boomerang
-#EXTVLCOPT:http-user-agent="BearTV"
-https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="cartoonhd" group-title="Kênh hoạt hình - Phong" tvg-logo="https://i.ibb.co/THhk8Wf/Cartoon-Network-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8", Cartoon Network HD
-#EXTVLCOPT:http-user-agent="BearTV"
-#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
-https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
-
+#EXTINF:-1 tvg-id="" group-title="Kênh hoạt hình - Phong" tvg-logo="https://i.ibb.co/vD7cGzQ/Boomerang-BEARTV.png" BOOMERANG TV HD
+https://vips-livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="cartoonhd" group-title="Kênh hoạt hình - Phong" tvg-logo="https://i.ibb.co/THhk8Wf/Cartoon-Network-BEARTV.png", Cartoon Network HD
+https://vips-livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
 
 
 **********************K+*****************************************************
