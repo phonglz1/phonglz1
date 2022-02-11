@@ -12,23 +12,44 @@ https://vthanh.xyz/hls/laudaitinhai.m3u8
 https://mziyw7t0yhliv.vcdn.cloud/live/binhphuoc3/chunklist_1.m3u8
 
 
-#EXTINF:-1 tvg-id="" group-title="Kênh hoạt hình - Phong" tvg-logo="https://i.ibb.co/vD7cGzQ/Boomerang-BEARTV.png" BOOMERANG TV HD
-https://vips-livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="cartoonhd" group-title="Kênh hoạt hình - Phong" tvg-logo="https://i.ibb.co/THhk8Wf/Cartoon-Network-BEARTV.png", Cartoon Network HD
-https://vips-livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="boomerang" group-title="Thiếu nhi(phong)" tvg-logo="https://i.imgur.com/id8XNtI.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/boomerang_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",BOOMERANG HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="cartoonhd" group-title="Thiếu nhi(phong)" tvg-logo="https://i.imgur.com/cq9CgAk.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Cartoon Network HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
 
 
 **********************K+*****************************************************
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+CINE HD
-https://livecdn.fptplay.net/hdevent%20/27082021k1_4000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KLIFE.png", K+LIFE HD
-https://livecdn.fptplay.net/hdevent%20/27082021k1ns_4000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT1.png", K+SPORT1 HD
-https://livecdn.fptplay.net/hdevent%20/27082021k1pm_4000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT2.png", K+SPORT2 HD
-#https://cdnspt.vthanh.xyz/AOLive/mpegts
-https://livecdn.fptplay.net/hdevent%20/27082021k1pc_4000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH K+" tvg-logo="https://i.imgur.com/tUvgyS5.png",K+CINE HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://livecdn.fptplay.net/hdevent/27082021k1_4000.stream/playlist.m3u8
+#EXTINF:-1 group-title="KÊNH K+" tvg-logo="https://i.imgur.com/1YqN0Ps.png",K+LIFE HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://livecdn.fptplay.net/hdevent/27082021k1ns_4000.stream/playlist.m3u8
+#EXTINF:-1 group-title="KÊNH K+" tvg-logo="https://i.imgur.com/YeuiTPO.png",K+SPORT1 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://livecdn.fptplay.net/hdevent/27082021k1pm_4000.stream/playlist.m3u8
+#EXTINF:-1 group-title="KÊNH K+" tvg-logo="https://i.imgur.com/sL3wtUC.png",K+SPORT2 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://livecdn.fptplay.net/hdevent/27082021k1pm_4000.stream/playlist.m3u8
+#EXTINF:-1 group-title="KÊNH K+" tvg-logo="https://i.imgur.com/ZASjJwy.png",K+KIDS HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi:2:6OM0o61jF2hcDXWZCUP2SnfD7h-JH0KLipbQUKyWFAo:MTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFNIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjM4MDM2ODM1NjUxLHU6IjU2OGE5NTYzLTg0NTEtYTZhNi0wNjczLTdmYjcxYjJlYzYyMSIsZGU6MyxsZjowfQ&SessionId=A0675D250147132D&Ticket=D7A79A8F2D399CC4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/i.mpd
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:0 tvg-id="vtv1hd"group-title="VTV" tvg-logo="https://i.ibb.co/gywZ98j/VTV1-HD-BEARTV.png" tvg-chno="1" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV1 HD        💝HAPPY💝
@@ -653,6 +674,9 @@ https://sglive.akamaized.net/bpk-tv/prod_kplus_lifehd/default/i.mpd
 
 #EXTINF:0 group-title="Thôi xem làm gì" tvg-logo="https://i.ibb.co/bF3t6fS/UEFA-BEARTV.jpg",HAHA
 https://rr6---sn-8pxuuxa-i5oll.googlevideo.com/videoplayback?expire=1644535022&ei=jkgFYomhGpf0rtoP4pKtsAI&ip=2402%3A800%3A6139%3Ad7a8%3Aa4a4%3A87b8%3A6734%3A941f&id=o-AE5tAGnn30ksrgxGyNTpjtACUjHHS9r9XXo9RScciFhh&itag=137&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&mh=ll&mm=31%2C29&mn=sn-8pxuuxa-i5oll%2Csn-8pxuuxa-i5o6k&ms=au%2Crdu&mv=m&mvi=6&pl=51&initcwndbps=836250&vprv=1&mime=video%2Fmp4&ns=1xe06dOpeSicvH5yRjDEUM4G&gir=yes&clen=50397308&dur=318.885&lmt=1635490907091274&mt=1644513228&fvip=6&keepalive=yes&fexp=24001373%2C24007246&c=WEB&txp=5432432&n=vhC8uNbUWRHRAA&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAIPKSvhoTyK2LjtYgWJrwRz2QYoV25yQ72Zi85hJNQH_AiAb9U1ecWLBA5mwiYC3TdKAqHlRuv6BAvsG14ltoBhdCw%3D%3D&sig=AOq0QJ8wRQIhAJVOqKYzhbVmyuGy4nJYF5PdXYZEemRtuBhZpAHmYRGrAiBV3m9M9QQTzLuhx_GVlvMwl7Uv2mpvdTFEinzcATFZJA%3D%3D
+
+
+
 
 
 
