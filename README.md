@@ -252,12 +252,9 @@ https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="QUỐC TẾ - " tvg-logo="https://i.ibb.co/fnrDyDg/cinemax-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/playlist_dvr_range-${start}-${offset}.m3u8", CINEMAX
 #EXTVLCOPT:http-user-agent="BearTV"
 https://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
-
 #EXTINF:-1 tvg-id="mtvhd" group-title="QUỐC TẾ - " tvg-logo="https://i.ibb.co/4WsJKSP/MTV-VN-BEARTV.png", MTV
 #EXTVLCOPT:http-user-agent="BearTV"
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
-
-
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="QUỐC TẾ - " tvg-logo="https://i.ibb.co/G02ZkMd/Hollywood-Classics-BEARTV.png",Hollywood Classics
 #EXTVLCOPT:http-user-agent="BearTV"
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8?bycoca|Referer=http://sctvonline.vn/
@@ -677,11 +674,15 @@ https://rr6---sn-8pxuuxa-i5oll.googlevideo.com/videoplayback?expire=1644535022&e
 
 
 
+#EXTINF:0 group-title="😬😬😬😬😬😬" tvg-logo="https://i.ibb.co/d7PN7p3/Screenshot-27.png",Kênh thử nghiệm okkkkkkkkkkkkkkkkkkkkkkkk
+http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
 
 
+#========================================== Bein Sports ==========================================#
 
-
-
-
-
-
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png", Bein Sports 1 Premium
+http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f893%2fbein-sports-premium-1.png", Bein Sports 2 Premium
+http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png", Bein Sports 3 Premium
+http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
