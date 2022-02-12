@@ -675,7 +675,7 @@ https://rr6---sn-8pxuuxa-i5oll.googlevideo.com/videoplayback?expire=1644535022&e
 
 
 #EXTINF:0 group-title="😬😬😬😬😬😬" tvg-logo="https://i.ibb.co/d7PN7p3/Screenshot-27.png",Kênh thử nghiệm okkkkkkkkkkkkkkkkkkkkkkkk
-http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
+https://v16-webapp.tiktok.com/6b2afd5ad7ea75b34d040c5a38cfb368/620824e1/video/tos/alisg/tos-alisg-pve-0037c001/1ed16945ada340d99a7f2878259bdc4c/?a=1988&br=3382&bt=1691&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XOQ9-3LGnz7ThfcgpDXq&l=2022021215212701024501905422E24B87&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anI2bWY6Zm5qOjMzODczNEApO2k1ZzpnZWU8Nzw4ZGU8OWdgYmg2cjQwc3BgLS1kMS1zc2FiLzYyNjEtMl4vYi8tNi86Yw%3D%3D&vl=&vr=
 
 
 #========================================== Bein Sports ==========================================#
