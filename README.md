@@ -624,58 +624,56 @@ https://livecdn.fptplay.net/hdevent/fa10_4000.stream/chunklist.m3u8
 
 
 
-#EXTINF:-1 group-title="xem Live Youtube" tvg-logo="https://i.ytimg.com/vi/2PeFhZg-Ci4/maxresdefault.jpg" tvg-id="", Talking Tom
-http://vthanhtivi.cf/404.mp4
 
-#EXTINF:-1 group-title="xem Live Youtube" tvg-logo="https://i.ytimg.com/vi/NXFR5Tx0D40/maxresdefault.jpg" tvg-id="", Cocomelon
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1644534004/ei/lEQFYtCbE5LHgAOd_4l4/ip/103.214.9.53/id/NXFR5Tx0D40.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgFaFwYIYCYJRg-7AZ6wJEF7G4KKpXUctAkfLV9Uqea7QCIQDDUmCrkPhCO9jyfB1wlPd2_EfiKeIMd7iBXstDFzPziQ%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="xem Live Youtube" tvg-logo="https://i.ytimg.com/vi/ZrCuQFN5ITc/maxresdefault.jpg" tvg-id="", Doraemon Tiếng Việt S6
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1644534004/ei/lEQFYtCgJozkqQGX95fYAQ/ip/103.214.9.53/id/ZrCuQFN5ITc.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/vn/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPpnq0sL-IIEx1c1_pa8nUzr-iMOt3HUv_RuXDQmq8t_AiBSv1n-XbMJqRswmx29Vl9X1GtCxZL3OK_2_WM2ysD9wA%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="xem Live Youtube" tvg-logo="https://i.ytimg.com/vi/T0nxNJYQDsM/maxresdefault.jpg" tvg-id="", Tom and Jerry
-http://vthanhtivi.cf/404.mp4
-
-#EXTINF:-1 group-title="xem Live Youtube" tvg-logo="https://i.ytimg.com/vi/Tzfp-MaU63M/maxresdefault.jpg" tvg-id="", Ben 10
-http://vthanhtivi.cf/404.mp4
-
-#EXTINF:-1 group-title="xem Live Youtube" tvg-logo="https://i.ytimg.com/vi/dYqo2nQbwpU/maxresdefault.jpg" tvg-id="", One Piece
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1644534018/ei/okQFYte4NtGyigar3qTwCg/ip/103.214.9.53/id/dYqo2nQbwpU.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/vn/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhALnoXNKIyOxwZwpmuedCuJtdfjvZ3FpCAKUiwwy__jzbAiEAoJZPrY4hAdkoPk0gDObyGd_-EUstcLC31k5P6NxxXNc%3D/file/index.m3u8
-
-
-#EXTINF:0 group-title="WC" tvg-logo="https://i.ibb.co/bF3t6fS/UEFA-BEARTV.jpg",WC1
+#EXTINF:0,World Cup 01
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#EXTVLCOPT:network-caching=1000
 https://vips-livecdn.fptplay.net/hdevent/worldcup01_hls.smil/chunklist_b2500000.m3u8
-
-
-#EXTINF:0 group-title="WC" tvg-logo="https://i.ibb.co/bF3t6fS/UEFA-BEARTV.jpg",WC2
+#EXTINF:0,World Cup 02
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#EXTVLCOPT:network-caching=1000
 https://vips-livecdn.fptplay.net/hdevent/worldcup02_hls.smil/chunklist_b2500000.m3u8
-
-
-
-#EXTINF:0 group-title="WC" tvg-logo="https://i.ibb.co/bF3t6fS/UEFA-BEARTV.jpg",WC4
+#EXTINF:0,World Cup 03
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#EXTVLCOPT:network-caching=1000
 https://vips-livecdn.fptplay.net/hdevent/worldcup03_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,World Cup 04
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#EXTVLCOPT:network-caching=1000
+https://vips-livecdn.fptplay.net/hdevent/worldcup04_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,World Cup 05
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#EXTVLCOPT:network-caching=1000
+https://vips-livecdn.fptplay.net/hdevent/worldcup05_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,World Cup 06
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#EXTVLCOPT:network-caching=1000
+https://vips-livecdn.fptplay.net/hdevent/worldcup06_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,World Cup 07
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#EXTVLCOPT:network-caching=1000
+https://vips-livecdn.fptplay.net/hdevent/worldcup07_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,World Cup 08
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#EXTVLCOPT:network-caching=1000
+https://vips-livecdn.fptplay.net/hdevent/worldcup08_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,World Cup 09
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#EXTVLCOPT:network-caching=1000
+https://vips-livecdn.fptplay.net/hdevent/worldcup09_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,World Cup 10
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#EXTVLCOPT:network-caching=1000
+https://vips-livecdn.fptplay.net/hdevent/worldcup10_hls.smil/chunklist_b2500000.m3u8
 
 
 
-#EXTINF:0 group-title="WC" tvg-logo="https://i.ibb.co/bF3t6fS/UEFA-BEARTV.jpg",Kênh thử nghiệm
-https://sglive.akamaized.net/bpk-tv/prod_kplus_lifehd/default/dash/prod_kplus_lifehd-video=2662400-986709444371.dash
-
-#EXTINF:0 group-title="WC" tvg-logo="https://i.ibb.co/bF3t6fS/UEFA-BEARTV.jpg",Kênh thử nghiệm
-https://sglive.akamaized.net/bpk-tv/prod_kplus_lifehd/default/i.mpd
 
 
 
 
 
 
-
-#EXTINF:0 group-title="Thôi xem làm gì" tvg-logo="https://i.ibb.co/bF3t6fS/UEFA-BEARTV.jpg",HAHA
-https://rr6---sn-8pxuuxa-i5oll.googlevideo.com/videoplayback?expire=1644535022&ei=jkgFYomhGpf0rtoP4pKtsAI&ip=2402%3A800%3A6139%3Ad7a8%3Aa4a4%3A87b8%3A6734%3A941f&id=o-AE5tAGnn30ksrgxGyNTpjtACUjHHS9r9XXo9RScciFhh&itag=137&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&mh=ll&mm=31%2C29&mn=sn-8pxuuxa-i5oll%2Csn-8pxuuxa-i5o6k&ms=au%2Crdu&mv=m&mvi=6&pl=51&initcwndbps=836250&vprv=1&mime=video%2Fmp4&ns=1xe06dOpeSicvH5yRjDEUM4G&gir=yes&clen=50397308&dur=318.885&lmt=1635490907091274&mt=1644513228&fvip=6&keepalive=yes&fexp=24001373%2C24007246&c=WEB&txp=5432432&n=vhC8uNbUWRHRAA&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAIPKSvhoTyK2LjtYgWJrwRz2QYoV25yQ72Zi85hJNQH_AiAb9U1ecWLBA5mwiYC3TdKAqHlRuv6BAvsG14ltoBhdCw%3D%3D&sig=AOq0QJ8wRQIhAJVOqKYzhbVmyuGy4nJYF5PdXYZEemRtuBhZpAHmYRGrAiBV3m9M9QQTzLuhx_GVlvMwl7Uv2mpvdTFEinzcATFZJA%3D%3D
-
-
-
-#EXTINF:0 group-title="😬😬😬😬😬😬" tvg-logo="https://i.ibb.co/d7PN7p3/Screenshot-27.png",Kênh thử nghiệm okkkkkkkkkkkkkkkkkkkkkkkk
-https://v16-webapp.tiktok.com/6b2afd5ad7ea75b34d040c5a38cfb368/620824e1/video/tos/alisg/tos-alisg-pve-0037c001/1ed16945ada340d99a7f2878259bdc4c/?a=1988&br=3382&bt=1691&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=XOQ9-3LGnz7ThfcgpDXq&l=2022021215212701024501905422E24B87&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anI2bWY6Zm5qOjMzODczNEApO2k1ZzpnZWU8Nzw4ZGU8OWdgYmg2cjQwc3BgLS1kMS1zc2FiLzYyNjEtMl4vYi8tNi86Yw%3D%3D&vl=&vr=
 
 
 #========================================== Bein Sports ==========================================#
