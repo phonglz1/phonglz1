@@ -686,3 +686,19 @@ http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
 http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png", Bein Sports 3 Premium
 http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
+
+
+#EXTINF:0 group-title="Thể Thao Sports 🟢" tvg-id="beIN..MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZzRfD5ycrkkm-gbh3_Hw_9-METHFFgWDKJg&usqp=CAU",True Sports 1 HD
+https://smart-tv.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:0 group-title="Thể Thao Sports 🟢" tvg-id="beIN..MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZzRfD5ycrkkm-gbh3_Hw_9-METHFFgWDKJg&usqp=CAU",True Sports 2 HD
+https://smart-tv.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:0 group-title="Thể Thao Sports 🟢" tvg-id="beIN..MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZzRfD5ycrkkm-gbh3_Hw_9-METHFFgWDKJg&usqp=CAU",True Sports 3 HD
+https://smart-tv.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:0 group-title="Thể Thao Sports 🟢" tvg-id="beIN..MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZzRfD5ycrkkm-gbh3_Hw_9-METHFFgWDKJg&usqp=CAU",True Sports 4 HD
+https://smart-tv.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:0 group-title="Thể Thao Sports 🟢" tvg-id="beIN..MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQdQ4uHAfgxj8YoPINvN9-vE7ItJ9BwK35iw&usqp=CAU",True Tennis HD
+https://smart-tv.livedoomovie.com:4431/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:0 group-title="Thể Thao Sports 🟢" tvg-id="beIN..MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKwIyXiLF6p4mZWfK73nepkKVSc8Aww92mTg&usqp=CAU",Tennis channel HD 1
+http://starshare.live:8080/live/cOrldiscord/6aihXYFqTX/712.ts
+#EXTINF:0 group-title="Thể Thao Sports 🟢" tvg-id="beIN..MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKwIyXiLF6p4mZWfK73nepkKVSc8Aww92mTg&usqp=CAU",Tennis channel HD 2
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
