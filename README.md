@@ -20,7 +20,7 @@ http://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
 
 
-**********************K+*****************************************************
+===================================k+=============================================
 
 #EXTINF:-1 group-title="KÊNH K+" tvg-logo="https://i.imgur.com/tUvgyS5.png",K+CINE HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
