@@ -30,10 +30,10 @@ https://livecdn.fptplay.net/hdevent/27082021k1_4000.stream/playlist.m3u8
 https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/dash/prod_kplus_sport2hd-audio_87682_vie=87200-52626783877241.dash
 #EXTINF:-1 group-title="KÊNH K+" tvg-logo="https://i.imgur.com/YeuiTPO.png",K+SPORT1 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://livecdn.fptplay.net/hdevent/27082021k1pm_4000.stream/playlist.m3u8
+https://livecdn.fptplay.net/event/ksport1_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH K+" tvg-logo="https://i.imgur.com/sL3wtUC.png",K+SPORT2 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://livecdn.fptplay.net/hdevent/27082021k1pm_4000.stream/playlist.m3u8
+https://livecdn.fptplay.net/event/ksport2_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH K+" tvg-logo="https://i.imgur.com/ZASjJwy.png",K+KIDS HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
