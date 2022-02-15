@@ -27,7 +27,7 @@ https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m
 https://livecdn.fptplay.net/hdevent/27082021k1_4000.stream/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH K+" tvg-logo="https://i.imgur.com/1YqN0Ps.png",K+LIFE HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://livecdn.fptplay.net/hdevent/27082021k1ns_2000/playlist.m3u8
+https://livecdn.fptplay.net/event/kcine_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH K+" tvg-logo="https://i.imgur.com/YeuiTPO.png",K+SPORT1 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/event/ksport1_2000.stream/chunklist.m3u8
