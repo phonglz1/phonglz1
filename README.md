@@ -1,10 +1,17 @@
 #EXTM3U url-tvg="http://onetv.click/schedule/epg.xml,http://vthanh.me/tvpub.xml,http://gg.gg/cvmedia-epg"
 #Tham gia group Zalo để nhận thông báo: https://zalo.me/g/bjmhxs517
 
-#EXTINF:-1 group-title="Kết bạn đê" tvg-logo="http://static.acestream.net/sites/acestream/img/ACE-logo.png", Kênh youtube :PhongVR
-https://vthanh.xyz/hls/laudaitinhai.m3u8
-#EXTINF:-1 group-title="Kết bạn đê" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Warning.svg/2219px-Warning.svg.png", Facebook: Phong Lê
-https://vthanh.xyz/hls/laudaitinhai.m3u8
+#EXTINF:-1 group-title="Kết bạn đê" tvg-logo="https://scontent.fhan14-1.fna.fbcdn.net/v/t1.6435-9/71742241_100332318046537_2519326055173455872_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=vj_ILpnZ6wcAX9G7xUE&_nc_ht=scontent.fhan14-1.fna&oh=00_AT9qgtMG4zddsgqFIFJNjeKot3zcw4P1ZgJcksUo4gZp0w&oe=6233227A", Kênh youtube :PhongVR
+https://rr2---sn-42u-i5ol6.googlevideo.com/videoplayback?expire=1645140777&ei=yYYOYtSNCIeOvcAPtdCdqAI&ip=118.71.206.242&id=o-AMbQdaqQ6HO6hNYsSaoQsCv_P0qETKw-Mx1zDSqSivST&itag=137&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&mh=IT&mm=31%2C26&mn=sn-42u-i5ol6%2Csn-oguelnl7&ms=au%2Conr&mv=m&mvi=2&pcm2cms=yes&pl=24&initcwndbps=1425000&vprv=1&mime=video%2Fmp4&ns=ZEFWm0sVdiDWa_l2WTvB1HgG&gir=yes&clen=2176066&dur=9.066&lmt=1623452783574794&mt=1645118955&fvip=2&keepalive=yes&fexp=24001373%2C24007246&c=WEB&txp=5316222&n=BVmsHMNgD9BZtg&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIhAOVFJFKmiDzDWqBIigIchxMrKR6k-773cryEETxSBb9GAiAnkcZFGExZkeqsx9jqVbiGFAanTz9bvZVDyLuuG35iDA%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgV8xlc3D3ziN6U7YuBrV1dknfLNlBM0-nsNFTOQBKoUUCIDat112yadGlXa9ISgUc1MG98mb1MYWPzetREWlXBecf
+
+
+#EXTINF:-1 group-title="Kết bạn đê" tvg-logo="https://scontent.fhan14-1.fna.fbcdn.net/v/t1.6435-9/71742241_100332318046537_2519326055173455872_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=vj_ILpnZ6wcAX9G7xUE&_nc_ht=scontent.fhan14-1.fna&oh=00_AT9qgtMG4zddsgqFIFJNjeKot3zcw4P1ZgJcksUo4gZp0w&oe=6233227A", Facebook: Phong Lê
+https://rr2---sn-42u-i5ol6.googlevideo.com/videoplayback?expire=1645140777&ei=yYYOYtSNCIeOvcAPtdCdqAI&ip=118.71.206.242&id=o-AMbQdaqQ6HO6hNYsSaoQsCv_P0qETKw-Mx1zDSqSivST&itag=137&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&mh=IT&mm=31%2C26&mn=sn-42u-i5ol6%2Csn-oguelnl7&ms=au%2Conr&mv=m&mvi=2&pcm2cms=yes&pl=24&initcwndbps=1425000&vprv=1&mime=video%2Fmp4&ns=ZEFWm0sVdiDWa_l2WTvB1HgG&gir=yes&clen=2176066&dur=9.066&lmt=1623452783574794&mt=1645118955&fvip=2&keepalive=yes&fexp=24001373%2C24007246&c=WEB&txp=5316222&n=BVmsHMNgD9BZtg&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIhAOVFJFKmiDzDWqBIigIchxMrKR6k-773cryEETxSBb9GAiAnkcZFGExZkeqsx9jqVbiGFAanTz9bvZVDyLuuG35iDA%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgV8xlc3D3ziN6U7YuBrV1dknfLNlBM0-nsNFTOQBKoUUCIDat112yadGlXa9ISgUc1MG98mb1MYWPzetREWlXBecf
+
+
+
+
+
 
 
 #EXTINF:0 tvg-id="binhphuoc3" group-title="Kênh Ant" tvg-logo="https://i.ibb.co/C95XQzP/ANT-BPTV3-BEARTV.png", Bình Phước 3 - ANT TV
