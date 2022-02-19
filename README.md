@@ -705,3 +705,15 @@ https://smart-tv.livedoomovie.com:4431/02_TennisHD_720p/chunklist.m3u8
 http://starshare.live:8080/live/cOrldiscord/6aihXYFqTX/712.ts
 #EXTINF:0 group-title="Thể Thao Sports 🟢" tvg-id="beIN..MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKwIyXiLF6p4mZWfK73nepkKVSc8Aww92mTg&usqp=CAU",Tennis channel HD 2
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:0 tvg-id="phim hay" group-title="Phim hay Hôm nay" tvg-logo="https://i3.wp.com/image.bongngocdn.com/upload/poster-thu-sau-1995.jpg",FRIDAY (Thứ 6- năm 1995)
+https://aus-1.vkool.info/videos/4fixohgmrfrajpam7ntcc4ffxh.mp4
+
+#EXTINF:0 tvg-id="phim hay" group-title="Phim hay Hôm nay" tvg-logo="https://i3.wp.com/image.bongngocdn.com/upload/poster-thu-sau-1995.jpg",FRIDAY (Thứ 6- năm 1995)
