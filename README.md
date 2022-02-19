@@ -2,11 +2,11 @@
 #Tham gia group Zalo để nhận thông báo: https://zalo.me/g/bjmhxs517
 
 #EXTINF:-1 group-title="Kết bạn đê" tvg-logo="https://scontent.fhan14-1.fna.fbcdn.net/v/t1.6435-9/71742241_100332318046537_2519326055173455872_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=vj_ILpnZ6wcAX9G7xUE&_nc_ht=scontent.fhan14-1.fna&oh=00_AT9qgtMG4zddsgqFIFJNjeKot3zcw4P1ZgJcksUo4gZp0w&oe=6233227A", Kênh youtube :PhongVR
-https://download1592.mediafire.com/8tdu490gtslg/dizzli12dwntcmg/%C4%90%E1%BB%99+Mixi+-+S%E1%BB%A3+qu%C3%A1+s%E1%BB%A3+qu%C3%A1+ph%E1%BA%A3i+band+n%C3%B3+th%C3%B4i+-+Kho%E1%BA%A3nh+kh%E1%BA%AFc+h%C3%A0i+h%C6%B0%E1%BB%9Bc+%C4%90%E1%BB%99+Mixi.mp4
+https://api.mp4.to/static/downloads/089678ad654742518e414c5dabf5e19d/Độ_Mixi_-_Sợ_quá_sợ_quá_phải_band_nó_thô_vDWcCB2.m3u8
+
 
 #EXTINF:-1 group-title="Kết bạn đê" tvg-logo="https://scontent.fhan14-1.fna.fbcdn.net/v/t1.6435-9/71742241_100332318046537_2519326055173455872_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=vj_ILpnZ6wcAX9G7xUE&_nc_ht=scontent.fhan14-1.fna&oh=00_AT9qgtMG4zddsgqFIFJNjeKot3zcw4P1ZgJcksUo4gZp0w&oe=6233227A", Facebook: Phong Lê
-https://download1592.mediafire.com/8tdu490gtslg/dizzli12dwntcmg/%C4%90%E1%BB%99+Mixi+-+S%E1%BB%A3+qu%C3%A1+s%E1%BB%A3+qu%C3%A1+ph%E1%BA%A3i+band+n%C3%B3+th%C3%B4i+-+Kho%E1%BA%A3nh+kh%E1%BA%AFc+h%C3%A0i+h%C6%B0%E1%BB%9Bc+%C4%90%E1%BB%99+Mixi.mp4
-
+https://api.mp4.to/static/downloads/089678ad654742518e414c5dabf5e19d/Độ_Mixi_-_Sợ_quá_sợ_quá_phải_band_nó_thô_vDWcCB2.m3u8
 
 
 
