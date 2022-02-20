@@ -714,7 +714,7 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
 
 #EXTINF:0 tvg-id="phim hay" group-title="Phim hay Hôm nay" tvg-logo="https://i3.wp.com/image.bongngocdn.com/upload/poster-thu-sau-1995.jpg",FRIDAY (Thứ 6- năm 1995)
-https://aus-1.vkool.info/videos/4fixohgmrfrajpam7ntcc4ffxh.mp4
+https://api.mp4.to/static/downloads/aa87ec67af37470a9182b7b7863b6406/4fixohgmrfrajpam7ntcc4ffxh.m3u8
 
 #EXTINF:0 tvg-id="phim hay" group-title="Video của tôi" tvg-logo="https://i.ytimg.com/an_webp/90fsxKFIQHY/mqdefault_6s.webp?du=3000&sqp=CJjVx5AG&rs=AOn4CLCMtikXv9YA_jx4A70mAZgdfxgxkg",Tặng acc vieon file cookie
 https://www.youtube.com/watch?v=90fsxKFIQHY
