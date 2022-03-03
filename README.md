@@ -6,7 +6,7 @@ https://api.mp4.to/static/downloads/089678ad654742518e414c5dabf5e19d/Độ_Mixi_
 
 
 #EXTINF:-1 group-title="Kết bạn đê" tvg-logo="https://scontent.fhan14-1.fna.fbcdn.net/v/t1.6435-9/71742241_100332318046537_2519326055173455872_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=vj_ILpnZ6wcAX9G7xUE&_nc_ht=scontent.fhan14-1.fna&oh=00_AT9qgtMG4zddsgqFIFJNjeKot3zcw4P1ZgJcksUo4gZp0w&oe=6233227A", Facebook: Phong Lê
-https://api.mp4.to/static/downloads/089678ad654742518e414c5dabf5e19d/Độ_Mixi_-_Sợ_quá_sợ_quá_phải_band_nó_thô_vDWcCB2.m3u8
+https://a21-fcdn.glxplay.io/a0939f3f-bcd5-49eb-ae48-3c4235866fe5/ed2f2f31-221b-4841-bedd-17ea101d8b14/1/251bb04b894b3cde9cf52a408a261d03/h264/manifest.mpd
 
 
 
